@@ -8,6 +8,6 @@ This is the repo for DATA70141, group assignment Amazone
 ## 3. xxx
 
 ## Notice
-For new developed functions
-Please create a new folder named by you
-And add an overview above in this readme file
+For new developed functions  
+Please create a new folder named by you  
+And add an overview above in this readme file  
