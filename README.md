@@ -1,7 +1,9 @@
 # Amazone-Group-Assignment
 This is the repo for DATA70141, group assignment Amazone
 
-## 1. xxx
+## 1. Schema and CRD  
+1) Schema.json
+2) CRD.png
 
 ## 2. xxx
 
