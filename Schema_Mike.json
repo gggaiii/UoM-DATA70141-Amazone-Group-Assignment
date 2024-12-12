@@ -215,8 +215,9 @@ Warehouse
 {
 	"_id" : "ObjectId",
 	"warehouseName": "string",
-	"warehouseLocation": "string"
-
+	"warehouseLocation": "string",
+	"warehouseLatitude": "double",
+	"warehouseLongitude": "double"
 }
 
 DailyInventory
