@@ -1,0 +1,73 @@
+[   
+    {
+    "_id": "6758c8a6333cf916c9322b75",
+    "authorName": "George Orwell",
+    "publisher": "Secker & Warburg",
+    "publisherYear": "1949-06-08",
+    "ISBN": "978-0451524935"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b76",
+      "authorName": "Jane Austen",
+      "publisher": "Thomas Egerton",
+      "publisherYear": "1813-01-28",
+      "ISBN": "978-1503290563"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b77",
+      "authorName": "Harper Lee",
+      "publisher": "J.B. Lippincott & Co.",
+      "publisherYear": "1960-07-11",
+      "ISBN": "978-0061120084"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b78",
+      "authorName": "J.D. Salinger",
+      "publisher": "Little, Brown and Company",
+      "publisherYear": "1951-07-16",
+      "ISBN": "978-0316769488"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b79",
+      "authorName": "Herman Melville",
+      "publisher": "Richard Bentley",
+      "publisherYear": "1851-11-14",
+      "ISBN": "978-1503280786"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b7a",
+      "authorName": "J.R.R. Tolkien",
+      "publisher": "George Allen & Unwin",
+      "publisherYear": "1954-07-29",
+      "ISBN": "978-0261103573"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b7b",
+      "authorName": "J.R.R. Tolkien",
+      "publisher": "George Allen & Unwin",
+      "publisherYear": "1937-09-21",
+      "ISBN": "978-0345339683"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b7c",
+      "authorName": "Aldous Huxley",
+      "publisher": "Chatto & Windus",
+      "publisherYear": "1932-01-01",
+      "ISBN": "978-0060850524"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b7d",
+      "authorName": "Mary Shelley",
+      "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+      "publisherYear": "1818-01-01",
+      "ISBN": "978-0486282114"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b7e",
+      "authorName": "George Orwell",
+      "publisher": "Secker & Warburg",
+      "publisherYear": "1945-08-17",
+      "ISBN": "978-0451526342"
+    }
+]
+  

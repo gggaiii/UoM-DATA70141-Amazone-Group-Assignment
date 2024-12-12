@@ -1,0 +1,798 @@
+[
+    {
+        "customerID": "6759d559b156995774e8b89a",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7a"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7b"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b82"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b89b",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b95"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6a"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7a"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b89c",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7f"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6f"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b90"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b89d",
+        "customerRatings": [
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b66"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b69"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b93"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b89e",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b92"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b90"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6b"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b89f",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7d"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8f"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b94"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8a0",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b87"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b72"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b64"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8a1",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b99"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b67"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b92"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8a2",
+        "customerRatings": [
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6b"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b76"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b87"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8a3",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b85"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7c"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b97"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8a4",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b93"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7b"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8d"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8a5",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b92"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6b"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b98"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8a6",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b97"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7a"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b79"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8a7",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b82"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b93"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b76"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8a8",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b90"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b65"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7a"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8a9",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8a"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b9a"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b97"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8aa",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b90"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6a"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7b"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8ab",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b98"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b99"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b61"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8ac",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b77"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b79"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b82"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7e"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b91"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b75"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b9a"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b83"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b88"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b93"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b94"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7a"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b80"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b99"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7d"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b96"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b98"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b9b"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7c"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7f"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8c"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7b"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b90"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8f"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b86"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b89"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b84"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b78"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b87"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b81"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b97"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b85"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8a"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b95"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8b"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8d"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b92"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8e"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b76"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b9c"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6c"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6e"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b68"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b62"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6f"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b73"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b74"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b64"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6a"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6d"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b61"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6b"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b66"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b70"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b63"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b65"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b69"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b71"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b72"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b67"
+            }
+        ]
+    },
+    {
+        "customerID": "6759d559b156995774e8b8ad",
+        "customerRatings": [
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b77"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b79"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b82"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7e"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b91"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b75"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b9a"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b83"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b88"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b93"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b94"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7a"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b80"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b99"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7d"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b96"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b98"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b9b"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7c"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7f"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8c"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b7b"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b90"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8f"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b86"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b89"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b84"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b78"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b87"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b81"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b97"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b85"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8a"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b95"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8b"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8d"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b92"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b8e"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b76"
+            },
+            {
+                "rating": 8,
+                "productID": "6758c8a6333cf916c9322b9c"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6c"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6e"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b68"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b62"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6f"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b73"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b74"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b64"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6a"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6d"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b61"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b6b"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b66"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b70"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b63"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b65"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b69"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b71"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b72"
+            },
+            {
+                "rating": 9,
+                "productID": "6758c8a6333cf916c9322b67"
+            }
+        ]
+    }
+]

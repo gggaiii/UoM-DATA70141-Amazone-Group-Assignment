@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "67589d831814df7d9eb60c9a",
+    "warehouseName": "Dale Street Warehouse",
+    "warehouseLocation": "Dale Street, Northern Quarter, Manchester, UK"
+  },
+  {
+    "_id": "67589d831814df7d9eb60c9b",
+    "warehouseName": "Fresh Products Warehouse",
+    "warehouseLocation": "123 Deansgate, Manchester, UK"
+  }
+]

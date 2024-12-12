@@ -1,0 +1,183 @@
+[
+    {
+      "_id": "6759d28aaf1004dc18de97a9",
+      "houseNumber": 101,
+      "streetName": "High Street",
+      "postCode": "M1 1AA",
+      "cityName": "Manchester",
+      "latitude": 53.4808,
+      "longitude": -2.2426
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97aa",
+      "houseNumber": 202,
+      "streetName": "Market Street",
+      "postCode": "M2 1AB",
+      "cityName": "Manchester",
+      "latitude": 53.4839,
+      "longitude": -2.2434
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97ab",
+      "houseNumber": 303,
+      "streetName": "Deansgate",
+      "postCode": "M3 2AC",
+      "cityName": "Manchester",
+      "latitude": 53.4770,
+      "longitude": -2.2505
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97ac",
+      "houseNumber": 404,
+      "streetName": "Oxford Road",
+      "postCode": "M4 3AD",
+      "cityName": "Manchester",
+      "latitude": 53.4698,
+      "longitude": -2.2332
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97ad",
+      "houseNumber": 505,
+      "streetName": "King Street",
+      "postCode": "M5 4AE",
+      "cityName": "Manchester",
+      "latitude": 53.4811,
+      "longitude": -2.2456
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97ae",
+      "houseNumber": 606,
+      "streetName": "Portland Street",
+      "postCode": "M6 5AF",
+      "cityName": "Manchester",
+      "latitude": 53.4740,
+      "longitude": -2.2370
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97af",
+      "houseNumber": 707,
+      "streetName": "Whitworth Street",
+      "postCode": "M7 6AG",
+      "cityName": "Manchester",
+      "latitude": 53.4692,
+      "longitude": -2.2310
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97b0",
+      "houseNumber": 808,
+      "streetName": "Chester Road",
+      "postCode": "M8 7AH",
+      "cityName": "Manchester",
+      "latitude": 53.4650,
+      "longitude": -2.2295
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97b1",
+      "houseNumber": 909,
+      "streetName": "Piccadilly",
+      "postCode": "M9 8AI",
+      "cityName": "Manchester",
+      "latitude": 53.4795,
+      "longitude": -2.2327
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97b2",
+      "houseNumber": 111,
+      "streetName": "Victoria Street",
+      "postCode": "M10 9AJ",
+      "cityName": "Manchester",
+      "latitude": 53.4850,
+      "longitude": -2.2440
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97b3",
+      "houseNumber": 121,
+      "streetName": "Lever Street",
+      "postCode": "M11 0AK",
+      "cityName": "Manchester",
+      "latitude": 53.4835,
+      "longitude": -2.2398
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97b4",
+      "houseNumber": 131,
+      "streetName": "Great Ancoats Street",
+      "postCode": "M12 1AL",
+      "cityName": "Manchester",
+      "latitude": 53.4820,
+      "longitude": -2.2265
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97b5",
+      "houseNumber": 141,
+      "streetName": "Quay Street",
+      "postCode": "M13 2AM",
+      "cityName": "Manchester",
+      "latitude": 53.4750,
+      "longitude": -2.2560
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97b6",
+      "houseNumber": 151,
+      "streetName": "Mosley Street",
+      "postCode": "M14 3AN",
+      "cityName": "Manchester",
+      "latitude": 53.4792,
+      "longitude": -2.2373
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97b7",
+      "houseNumber": 161,
+      "streetName": "Canal Street",
+      "postCode": "M15 4AO",
+      "cityName": "Manchester",
+      "latitude": 53.4780,
+      "longitude": -2.2350
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97b8",
+      "houseNumber": 171,
+      "streetName": "Booth Street",
+      "postCode": "M16 5AP",
+      "cityName": "Manchester",
+      "latitude": 53.4700,
+      "longitude": -2.2400
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97b9",
+      "houseNumber": 181,
+      "streetName": "John Dalton Street",
+      "postCode": "M17 6AQ",
+      "cityName": "Manchester",
+      "latitude": 53.4801,
+      "longitude": -2.2490
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97ba",
+      "houseNumber": 191,
+      "streetName": "Bridgewater Street",
+      "postCode": "M18 7AR",
+      "cityName": "Manchester",
+      "latitude": 53.4735,
+      "longitude": -2.2525
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97bb",
+      "houseNumber": 201,
+      "streetName": "Princess Street",
+      "postCode": "M19 8AS",
+      "cityName": "Manchester",
+      "latitude": 53.4768,
+      "longitude": -2.2398
+    },
+    {
+      "_id": "6759d28aaf1004dc18de97bc",
+      "houseNumber": 211,
+      "streetName": "Spring Gardens",
+      "postCode": "M20 9AT",
+      "cityName": "Manchester",
+      "latitude": 53.4805,
+      "longitude": -2.2429
+    }
+]
+  

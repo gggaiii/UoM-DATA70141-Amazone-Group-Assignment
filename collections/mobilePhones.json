@@ -1,0 +1,73 @@
+[
+    {
+      "_id": "6758c8a6333cf916c9322b89",
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "color": "Space Black",
+      "features": "A16 Bionic chip, ProMotion Display, Triple Camera System"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b8a",
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "color": "Phantom Black",
+      "features": "200MP Camera, Snapdragon 8 Gen 2, S Pen Support"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b8b",
+      "brand": "Google",
+      "model": "Pixel 7 Pro",
+      "color": "Snow",
+      "features": "Tensor G2 Chip, 120Hz OLED Display, Magic Eraser"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b8c",
+      "brand": "OnePlus",
+      "model": "OnePlus 11",
+      "color": "Titan Black",
+      "features": "Snapdragon 8 Gen 2, 100W Charging, Hasselblad Cameras"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b8d",
+      "brand": "Xiaomi",
+      "model": "13 Pro",
+      "color": "Ceramic White",
+      "features": "Leica Cameras, Snapdragon 8 Gen 2, 120W Fast Charging"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b8e",
+      "brand": "Sony",
+      "model": "Xperia 1 IV",
+      "color": "Frosted Purple",
+      "features": "4K OLED Display, Triple Camera with 120Hz Refresh Rate"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b8f",
+      "brand": "Oppo",
+      "model": "Find X5 Pro",
+      "color": "Glaze Black",
+      "features": "Snapdragon 8 Gen 1, MariSilicon X NPU, Hasselblad Color Calibration"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b90",
+      "brand": "Huawei",
+      "model": "Mate 50 Pro",
+      "color": "Orange Vegan Leather",
+      "features": "XMAGE Imaging, Kunlun Glass, OLED Display"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b91",
+      "brand": "Realme",
+      "model": "GT 3",
+      "color": "Pulse White",
+      "features": "240W Fast Charging, AMOLED Display, Snapdragon 8+ Gen 1"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b92",
+      "brand": "Vivo",
+      "model": "X90 Pro+",
+      "color": "Legend Red",
+      "features": "Zeiss Optics, Snapdragon 8 Gen 2, 1-inch Camera Sensor"
+    }
+  ]
+  

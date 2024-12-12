@@ -1,0 +1,63 @@
+[
+    {
+      "_id": "6758c8a6333cf916c9322b93",
+      "color": "Silver",
+      "voltage": "220-240V",
+      "style": "Cordless Stick Vacuum"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b94",
+      "color": "Black",
+      "voltage": "220-240V",
+      "style": "Digital Air Fryer"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b95",
+      "color": "Black",
+      "voltage": "110-240V",
+      "style": "Ultra HD Smart TV"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b96",
+      "color": "White",
+      "voltage": "220-240V",
+      "style": "Built-in Dishwasher"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b97",
+      "color": "White",
+      "voltage": "220-240V",
+      "style": "Front Load Washing Machine"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b98",
+      "color": "Silver",
+      "voltage": "110-240V",
+      "style": "Countertop Microwave"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b99",
+      "color": "Red",
+      "voltage": "110-240V",
+      "style": "Stand Mixer"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b9a",
+      "color": "Silver",
+      "voltage": "220-240V",
+      "style": "Double-Door Refrigerator"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b9b",
+      "color": "White",
+      "voltage": "110-240V",
+      "style": "Hand Blender"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b9c",
+      "color": "Black",
+      "voltage": "110-240V",
+      "style": "Espresso Machine"
+    }
+  ]
+  

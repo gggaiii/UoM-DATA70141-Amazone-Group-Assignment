@@ -1,0 +1,225 @@
+[
+    {
+      "_id": "6759c5a3154e92d1bb477993",
+      "storeAddress": {
+        "buildingNumber": 101,
+        "streetName": "High Street",
+        "postCode": "M1 4AA",
+        "city": "Manchester"
+      },
+      "location": {
+        "latitude": 53.4808,
+        "longitude": -2.2426
+      },
+      "groceryItems": [
+        {
+          "productID": "6758c8a6333cf916c9322b61",
+          "productName": "Chocolate Croissant",
+          "quantityInStore": 150
+        },
+        {
+          "productID": "6758c8a6333cf916c9322b62",
+          "productName": "Almond Danish",
+          "quantityInStore": 120
+        }
+      ]
+    },
+    {
+      "_id": "6759c5a3154e92d1bb477994",
+      "storeAddress": {
+        "buildingNumber": 202,
+        "streetName": "Market Street",
+        "postCode": "M2 5AD",
+        "city": "Manchester"
+      },
+      "location": {
+        "latitude": 53.4839,
+        "longitude": -2.2432
+      },
+      "groceryItems": [
+        {
+          "productID": "6758c8a6333cf916c9322b63",
+          "productName": "Baguette",
+          "quantityInStore": 200
+        },
+        {
+          "productID": "6758c8a6333cf916c9322b64",
+          "productName": "Cheese Breadsticks",
+          "quantityInStore": 180
+        }
+      ]
+    },
+    {
+      "_id": "6759c5a3154e92d1bb477995",
+      "storeAddress": {
+        "buildingNumber": 303,
+        "streetName": "Deansgate",
+        "postCode": "M3 1RF",
+        "city": "Manchester"
+      },
+      "location": {
+        "latitude": 53.4780,
+        "longitude": -2.2502
+      },
+      "groceryItems": [
+        {
+          "productID": "6758c8a6333cf916c9322b65",
+          "productName": "Banana Loaf",
+          "quantityInStore": 100
+        },
+        {
+          "productID": "6758c8a6333cf916c9322b66",
+          "productName": "Sparkling Water",
+          "quantityInStore": 160
+        }
+      ]
+    },
+    {
+      "_id": "6759c5a3154e92d1bb477996",
+      "storeAddress": {
+        "buildingNumber": 404,
+        "streetName": "Oxford Road",
+        "postCode": "M1 5AN",
+        "city": "Manchester"
+      },
+      "location": {
+        "latitude": 53.4699,
+        "longitude": -2.2353
+      },
+      "groceryItems": [
+        {
+          "productID": "6758c8a6333cf916c9322b67",
+          "productName": "Cold Brew Coffee",
+          "quantityInStore": 140
+        },
+        {
+          "productID": "6758c8a6333cf916c9322b68",
+          "productName": "Organic Green Tea",
+          "quantityInStore": 130
+        },
+        {
+          "productID": "6758c8a6333cf916c9322b69",
+          "productName": "Berry Smoothie",
+          "quantityInStore": 200
+        }
+      ]
+    },
+    {
+      "_id": "6759c5a3154e92d1bb477997",
+      "storeAddress": {
+        "buildingNumber": 505,
+        "streetName": "King Street",
+        "postCode": "M2 6AW",
+        "city": "Manchester"
+      },
+      "location": {
+        "latitude": 53.4810,
+        "longitude": -2.2468
+      },
+      "groceryItems": [
+        {
+          "productID": "6758c8a6333cf916c9322b6a",
+          "productName": "Orange Juice",
+          "quantityInStore": 170
+        },
+        {
+          "productID": "6758c8a6333cf916c9322b6b",
+          "productName": "Gala Apple",
+          "quantityInStore": 140
+        }
+      ]
+    },
+    {
+      "_id": "6759c5a3154e92d1bb477998",
+      "storeAddress": {
+        "buildingNumber": 606,
+        "streetName": "Portland Street",
+        "postCode": "M1 3LD",
+        "city": "Manchester"
+      },
+      "location": {
+        "latitude": 53.4750,
+        "longitude": -2.2389
+      },
+      "groceryItems": [
+        {
+          "productID": "6758c8a6333cf916c9322b6c",
+          "productName": "Banana",
+          "quantityInStore": 130
+        },
+        {
+          "productID": "6758c8a6333cf916c9322b6d",
+          "productName": "Seedless Grapes",
+          "quantityInStore": 150
+        }
+      ]
+    },
+    {
+      "_id": "6759c5a3154e92d1bb477999",
+      "storeAddress": {
+        "buildingNumber": 707,
+        "streetName": "Whitworth Street",
+        "postCode": "M1 6EL",
+        "city": "Manchester"
+      },
+      "location": {
+        "latitude": 53.4691,
+        "longitude": -2.2321
+      },
+      "groceryItems": [
+        {
+          "productID": "6758c8a6333cf916c9322b6e",
+          "productName": "Avocado",
+          "quantityInStore": 110
+        },
+        {
+          "productID": "6758c8a6333cf916c9322b6f",
+          "productName": "Blueberries",
+          "quantityInStore": 175
+        }
+      ]
+    },
+    {
+    "_id": "6759c5a3154e92d1bb47799a",
+    "storeAddress": {
+        "buildingNumber": 808,
+        "streetName": "Chester Road",
+        "postCode": "M15 4FN",
+        "city": "Manchester"
+    },
+    "location": {
+        "latitude": 53.4655,
+        "longitude": -2.2307
+    },
+    "groceryItems": [
+        {
+        "productID": "6758c8a6333cf916c9322b70",
+        "productName": "Carrots",
+        "quantityInStore": 120
+        },
+        {
+        "productID": "6758c8a6333cf916c9322b71",
+        "productName": "Spinach",
+        "quantityInStore": 100
+        },
+        {
+        "productID": "6758c8a6333cf916c9322b72",
+        "productName": "Potatoes",
+        "quantityInStore": 160
+        },
+        {
+        "productID": "6758c8a6333cf916c9322b73",
+        "productName": "Broccoli",
+        "quantityInStore": 140
+        },
+        {
+        "productID": "6758c8a6333cf916c9322b74",
+        "productName": "Red Bell Peppers",
+        "quantityInStore": 90
+        }
+    ]
+    }
+]
+
+    
+    

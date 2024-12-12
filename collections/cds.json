@@ -1,0 +1,73 @@
+[
+    {
+      "_id": "6758c8a6333cf916c9322b7f",
+      "artistName": "The Beatles",
+      "numberOfTracks": 17,
+      "totalPlayTime": 2720,
+      "publisher": "Apple Records"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b80",
+      "artistName": "Michael Jackson",
+      "numberOfTracks": 9,
+      "totalPlayTime": 2580,
+      "publisher": "Epic Records"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b81",
+      "artistName": "Pink Floyd",
+      "numberOfTracks": 10,
+      "totalPlayTime": 2580,
+      "publisher": "Harvest Records"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b82",
+      "artistName": "AC/DC",
+      "numberOfTracks": 10,
+      "totalPlayTime": 2520,
+      "publisher": "Atlantic Records"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b83",
+      "artistName": "Fleetwood Mac",
+      "numberOfTracks": 11,
+      "totalPlayTime": 2490,
+      "publisher": "Warner Bros. Records"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b84",
+      "artistName": "Bruce Springsteen",
+      "numberOfTracks": 12,
+      "totalPlayTime": 2880,
+      "publisher": "Columbia Records"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b85",
+      "artistName": "Eagles",
+      "numberOfTracks": 9,
+      "totalPlayTime": 2580,
+      "publisher": "Asylum Records"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b86",
+      "artistName": "Nirvana",
+      "numberOfTracks": 12,
+      "totalPlayTime": 2610,
+      "publisher": "DGC Records"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b87",
+      "artistName": "Pink Floyd",
+      "numberOfTracks": 26,
+      "totalPlayTime": 4820,
+      "publisher": "Harvest Records"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b88",
+      "artistName": "Led Zeppelin",
+      "numberOfTracks": 8,
+      "totalPlayTime": 2560,
+      "publisher": "Atlantic Records"
+    }
+  ]
+  

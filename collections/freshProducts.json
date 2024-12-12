@@ -1,0 +1,387 @@
+[
+    {
+        "_id": "6758c8a6333cf916c9322b61",
+        "productName":"Chocolate Croissant",
+        "description": "A buttery and flaky croissant filled with rich chocolate.",
+        "productSpecifics":
+        {
+            "productCategory": "Bakery",
+            "productDimensions": "12x8x4 cm",
+            "productWeight": "85g",
+            "countryOfOrigin": "France",
+            "expiryDate": "2024-12-15T00:00:00Z",
+            "standardPrice": 3,
+            "costInMorrizon": 2
+        },
+    
+        "storageDetails": 
+        {
+            "storageID" : "67589d831814df7d9eb60c9b",
+            "storageName": "Fresh Products Warehouse",
+            "storageLocation": "123 Deansgate, Manchester, UK"
+        }
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b62",
+      "productName": "Almond Danish",
+      "description": "A flaky pastry filled with almond cream and topped with slivered almonds.",
+      "productSpecifics": {
+        "productCategory": "Bakery",
+        "productDimensions": "10x8x3 cm",
+        "productWeight": "100g",
+        "countryOfOrigin": "Denmark",
+        "expiryDate": "2024-12-16T00:00:00Z",
+        "standardPrice": 4,
+        "costInMorrizon": 3
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b63",
+      "productName": "Baguette",
+      "description": "A classic French bread with a crisp crust and soft interior.",
+      "productSpecifics": {
+        "productCategory": "Bakery",
+        "productDimensions": "65x10x8 cm",
+        "productWeight": "300g",
+        "countryOfOrigin": "France",
+        "expiryDate": "2024-12-17T00:00:00Z",
+        "standardPrice": 2,
+        "costInMorrizon": 1
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b64",
+      "productName": "Cheese Breadsticks",
+      "description": "Savory breadsticks infused with cheese and herbs.",
+      "productSpecifics": {
+        "productCategory": "Bakery",
+        "productDimensions": "30x5x5 cm",
+        "productWeight": "150g",
+        "countryOfOrigin": "Italy",
+        "expiryDate": "2024-12-18T00:00:00Z",
+        "standardPrice": 3,
+        "costInMorrizon": 2
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b65",
+      "productName": "Banana Loaf",
+      "description": "A moist and sweet loaf made with ripe bananas.",
+      "productSpecifics": {
+        "productCategory": "Bakery",
+        "productDimensions": "20x10x8 cm",
+        "productWeight": "400g",
+        "countryOfOrigin": "United Kingdom",
+        "expiryDate": "2024-12-19T00:00:00Z",
+        "standardPrice": 5,
+        "costInMorrizon": 3
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b66",
+        "productName": "Sparkling Water",
+        "description": "A refreshing sparkling water with natural minerals.",
+        "productSpecifics": {
+          "productCategory": "Drinks",
+          "productDimensions": "6x6x20 cm",
+          "productWeight": "500ml",
+          "countryOfOrigin": "Italy",
+          "expiryDate": "2025-01-15T00:00:00Z",
+          "standardPrice": 1,
+          "costInMorrizon": 0.7
+        },
+        "storageDetails": {
+          "storageID": "67589d831814df7d9eb60c9b",
+          "storageName": "Fresh Products Warehouse",
+          "storageLocation": "123 Deansgate, Manchester, UK"
+        }
+      },
+      {
+        "_id": "6758c8a6333cf916c9322b67",
+        "productName": "Cold Brew Coffee",
+        "description": "A smooth and bold cold brew coffee, ready to drink.",
+        "productSpecifics": {
+          "productCategory": "Drinks",
+          "productDimensions": "6x6x18 cm",
+          "productWeight": "330ml",
+          "countryOfOrigin": "United States",
+          "expiryDate": "2025-02-10T00:00:00Z",
+          "standardPrice": 3,
+          "costInMorrizon": 2
+        },
+        "storageDetails": {
+          "storageID": "67589d831814df7d9eb60c9b",
+          "storageName": "Fresh Products Warehouse",
+          "storageLocation": "123 Deansgate, Manchester, UK"
+        }
+      },
+      {
+        "_id": "6758c8a6333cf916c9322b68",
+        "productName": "Organic Green Tea",
+        "description": "A bottle of organic green tea with a hint of honey.",
+        "productSpecifics": {
+          "productCategory": "Drinks",
+          "productDimensions": "5x5x22 cm",
+          "productWeight": "400ml",
+          "countryOfOrigin": "Japan",
+          "expiryDate": "2025-03-01T00:00:00Z",
+          "standardPrice": 2,
+          "costInMorrizon": 1.5
+        },
+        "storageDetails": {
+          "storageID": "67589d831814df7d9eb60c9b",
+          "storageName": "Fresh Products Warehouse",
+          "storageLocation": "123 Deansgate, Manchester, UK"
+        }
+      },
+      {
+        "_id": "6758c8a6333cf916c9322b69",
+        "productName": "Berry Smoothie",
+        "description": "A delicious blend of mixed berries in a creamy smoothie.",
+        "productSpecifics": {
+          "productCategory": "Drinks",
+          "productDimensions": "7x7x20 cm",
+          "productWeight": "250ml",
+          "countryOfOrigin": "United Kingdom",
+          "expiryDate": "2025-01-30T00:00:00Z",
+          "standardPrice": 3,
+          "costInMorrizon": 2.2
+        },
+        "storageDetails": {
+          "storageID": "67589d831814df7d9eb60c9b",
+          "storageName": "Fresh Products Warehouse",
+          "storageLocation": "123 Deansgate, Manchester, UK"
+        }
+      },
+      {
+        "_id": "6758c8a6333cf916c9322b6a",
+        "productName": "Orange Juice",
+        "description": "Freshly squeezed orange juice with no added sugar.",
+        "productSpecifics": {
+          "productCategory": "Drinks",
+          "productDimensions": "8x8x25 cm",
+          "productWeight": "1L",
+          "countryOfOrigin": "Spain",
+          "expiryDate": "2025-04-05T00:00:00Z",
+          "standardPrice": 4,
+          "costInMorrizon": 3
+        },
+        "storageDetails": {
+          "storageID": "67589d831814df7d9eb60c9b",
+          "storageName": "Fresh Products Warehouse",
+          "storageLocation": "123 Deansgate, Manchester, UK"
+        }
+      },
+    {
+      "_id": "6758c8a6333cf916c9322b6b",
+      "productName": "Gala Apple",
+      "description": "Crisp and sweet gala apples, perfect for snacking.",
+      "productSpecifics": {
+        "productCategory": "Fruits",
+        "productDimensions": "8x8x8 cm",
+        "productWeight": "150g",
+        "countryOfOrigin": "New Zealand",
+        "expiryDate": "2024-12-20T00:00:00Z",
+        "standardPrice": 1,
+        "costInMorrizon": 0.8
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b6c",
+      "productName": "Banana",
+      "description": "Fresh yellow bananas, a healthy source of energy.",
+      "productSpecifics": {
+        "productCategory": "Fruits",
+        "productDimensions": "20x5x5 cm",
+        "productWeight": "120g",
+        "countryOfOrigin": "Ecuador",
+        "expiryDate": "2024-12-18T00:00:00Z",
+        "standardPrice": 0.5,
+        "costInMorrizon": 0.3
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b6d",
+      "productName": "Seedless Grapes",
+      "description": "Juicy and sweet green seedless grapes.",
+      "productSpecifics": {
+        "productCategory": "Fruits",
+        "productDimensions": "15x10x8 cm",
+        "productWeight": "250g",
+        "countryOfOrigin": "South Africa",
+        "expiryDate": "2024-12-22T00:00:00Z",
+        "standardPrice": 2.5,
+        "costInMorrizon": 2
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b6e",
+      "productName": "Avocado",
+      "description": "Rich and creamy avocados, ideal for salads and toast.",
+      "productSpecifics": {
+        "productCategory": "Fruits",
+        "productDimensions": "12x8x8 cm",
+        "productWeight": "200g",
+        "countryOfOrigin": "Mexico",
+        "expiryDate": "2024-12-19T00:00:00Z",
+        "standardPrice": 1.5,
+        "costInMorrizon": 1.2
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b6f",
+      "productName": "Blueberries",
+      "description": "Fresh and plump blueberries, full of antioxidants.",
+      "productSpecifics": {
+        "productCategory": "Fruits",
+        "productDimensions": "10x10x5 cm",
+        "productWeight": "150g",
+        "countryOfOrigin": "Canada",
+        "expiryDate": "2024-12-25T00:00:00Z",
+        "standardPrice": 3,
+        "costInMorrizon": 2.5
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b70",
+      "productName": "Carrots",
+      "description": "Fresh and crunchy carrots, great for cooking or snacking.",
+      "productSpecifics": {
+        "productCategory": "Vegetables",
+        "productDimensions": "20x5x5 cm",
+        "productWeight": "200g",
+        "countryOfOrigin": "Netherlands",
+        "expiryDate": "2024-12-17T00:00:00Z",
+        "standardPrice": 1,
+        "costInMorrizon": 0.8
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b71",
+      "productName": "Spinach",
+      "description": "Fresh leafy spinach, packed with vitamins and nutrients.",
+      "productSpecifics": {
+        "productCategory": "Vegetables",
+        "productDimensions": "15x10x5 cm",
+        "productWeight": "250g",
+        "countryOfOrigin": "USA",
+        "expiryDate": "2024-12-18T00:00:00Z",
+        "standardPrice": 2,
+        "costInMorrizon": 1.5
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b72",
+      "productName": "Potatoes",
+      "description": "Versatile and starchy potatoes, ideal for many dishes.",
+      "productSpecifics": {
+        "productCategory": "Vegetables",
+        "productDimensions": "25x15x15 cm",
+        "productWeight": "1kg",
+        "countryOfOrigin": "United Kingdom",
+        "expiryDate": "2024-12-22T00:00:00Z",
+        "standardPrice": 2.5,
+        "costInMorrizon": 2
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b73",
+      "productName": "Broccoli",
+      "description": "Fresh green broccoli, rich in vitamins and minerals.",
+      "productSpecifics": {
+        "productCategory": "Vegetables",
+        "productDimensions": "15x15x15 cm",
+        "productWeight": "300g",
+        "countryOfOrigin": "Spain",
+        "expiryDate": "2024-12-19T00:00:00Z",
+        "standardPrice": 2,
+        "costInMorrizon": 1.8
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b74",
+      "productName": "Red Bell Peppers",
+      "description": "Crisp and sweet red bell peppers, perfect for salads or cooking.",
+      "productSpecifics": {
+        "productCategory": "Vegetables",
+        "productDimensions": "12x8x8 cm",
+        "productWeight": "150g",
+        "countryOfOrigin": "Mexico",
+        "expiryDate": "2024-12-21T00:00:00Z",
+        "standardPrice": 1.5,
+        "costInMorrizon": 1.2
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9b",
+        "storageName": "Fresh Products Warehouse",
+        "storageLocation": "123 Deansgate, Manchester, UK"
+      }
+    }
+  ]
+  
+  

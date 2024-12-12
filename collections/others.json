@@ -1,0 +1,687 @@
+[
+    {
+        "_id": "6758c8a6333cf916c9322b75",
+        "productName": "1984",
+        "description": "A dystopian novel by George Orwell that delves into the perils of totalitarianism and extreme political ideology.",
+        "productSpecifics": {
+          "productDimensions": "15x23x3 cm",
+          "shippingWeight": "400g",
+          "averagePrice": 12,
+          "supplierCost": 8
+        },
+        "storageDetails": {
+          "storageID": "67589d831814df7d9eb60c9a",
+          "storageName": "Dale Street Warehouse",
+          "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+        },
+        "categoryName": "Book"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b76",
+      "productName": "Pride and Prejudice",
+      "description": "A timeless romance novel by Jane Austen that explores themes of love, class, and reputation.",
+      "productSpecifics": {
+        "productDimensions": "14x21x2 cm",
+        "shippingWeight": "350g",
+        "averagePrice": 9,
+        "supplierCost": 6
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "Book"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b77",
+      "productName": "To Kill a Mockingbird",
+      "description": "Harper Lee's classic novel that deals with issues of racial injustice and moral growth in the American South.",
+      "productSpecifics": {
+        "productDimensions": "15x23x2.5 cm",
+        "shippingWeight": "380g",
+        "averagePrice": 11,
+        "supplierCost": 7
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "Book"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b78",
+      "productName": "The Catcher in the Rye",
+      "description": "J.D. Salinger's novel about teenage rebellion and alienation through the eyes of Holden Caulfield.",
+      "productSpecifics": {
+        "productDimensions": "12x20x2 cm",
+        "shippingWeight": "300g",
+        "averagePrice": 10,
+        "supplierCost": 7
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "Book"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b79",
+      "productName": "Moby-Dick",
+      "description": "Herman Melville's epic tale of obsession and revenge, set on the high seas.",
+      "productSpecifics": {
+        "productDimensions": "18x25x3 cm",
+        "shippingWeight": "500g",
+        "averagePrice": 13,
+        "supplierCost": 9
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "Book"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b7a",
+      "productName": "The Lord of the Rings: The Fellowship of the Ring",
+      "description": "J.R.R. Tolkien's epic fantasy novel following Frodo Baggins on his quest to destroy the One Ring.",
+      "productSpecifics": {
+        "productDimensions": "17x24x3.5 cm",
+        "shippingWeight": "600g",
+        "averagePrice": 15,
+        "supplierCost": 11
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "Book"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b7b",
+      "productName": "The Hobbit",
+      "description": "J.R.R. Tolkien's enchanting prelude to the Lord of the Rings trilogy, following Bilbo Baggins' adventures.",
+      "productSpecifics": {
+        "productDimensions": "16x24x3 cm",
+        "shippingWeight": "450g",
+        "averagePrice": 14,
+        "supplierCost": 10
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "Book"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b7c",
+      "productName": "Brave New World",
+      "description": "Aldous Huxley's visionary novel of a dystopian future dominated by technology and control.",
+      "productSpecifics": {
+        "productDimensions": "13x20x2 cm",
+        "shippingWeight": "320g",
+        "averagePrice": 10,
+        "supplierCost": 7
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "Book"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b7d",
+      "productName": "Frankenstein",
+      "description": "Mary Shelley's gothic masterpiece exploring creation and responsibility.",
+      "productSpecifics": {
+        "productDimensions": "14x22x2 cm",
+        "shippingWeight": "350g",
+        "averagePrice": 9,
+        "supplierCost": 6
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "Book"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b7e",
+      "productName": "Animal Farm",
+      "description": "George Orwell's allegorical novella critiquing power and corruption through the lens of a farmyard revolution.",
+      "productSpecifics": {
+        "productDimensions": "12x20x1.5 cm",
+        "shippingWeight": "280g",
+        "averagePrice": 8,
+        "supplierCost": 5
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "Book"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b7f",
+      "productName": "Abbey Road",
+      "description": "The iconic album by The Beatles, featuring classics like 'Come Together' and 'Here Comes the Sun'.",
+      "productSpecifics": {
+        "productDimensions": "14x12x1 cm",
+        "shippingWeight": "150g",
+        "averagePrice": 15,
+        "supplierCost": 10
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "CD"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b80",
+      "productName": "Thriller",
+      "description": "Michael Jackson's groundbreaking album, featuring 'Thriller' and 'Billie Jean'.",
+      "productSpecifics": {
+        "productDimensions": "14x12x1 cm",
+        "shippingWeight": "140g",
+        "averagePrice": 18,
+        "supplierCost": 12
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "CD"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b81",
+      "productName": "Dark Side of the Moon",
+      "description": "Pink Floyd's legendary concept album, exploring themes of time and mental health.",
+      "productSpecifics": {
+        "productDimensions": "14x12x1 cm",
+        "shippingWeight": "160g",
+        "averagePrice": 20,
+        "supplierCost": 14
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "CD"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b82",
+      "productName": "Back in Black",
+      "description": "AC/DC's high-energy rock album, featuring 'You Shook Me All Night Long'.",
+      "productSpecifics": {
+        "productDimensions": "14x12x1 cm",
+        "shippingWeight": "145g",
+        "averagePrice": 14,
+        "supplierCost": 9
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "CD"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b83",
+      "productName": "Rumours",
+      "description": "Fleetwood Mac's critically acclaimed album, featuring 'Dreams' and 'Go Your Own Way'.",
+      "productSpecifics": {
+        "productDimensions": "14x12x1 cm",
+        "shippingWeight": "150g",
+        "averagePrice": 16,
+        "supplierCost": 11
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "CD"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b84",
+      "productName": "Born in the U.S.A.",
+      "description": "Bruce Springsteen's powerful rock album, featuring the hit title track and 'Dancing in the Dark'.",
+      "productSpecifics": {
+        "productDimensions": "14x12x1 cm",
+        "shippingWeight": "140g",
+        "averagePrice": 17,
+        "supplierCost": 12
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "CD"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b85",
+      "productName": "Hotel California",
+      "description": "The Eagles' classic album, featuring the legendary track 'Hotel California'.",
+      "productSpecifics": {
+        "productDimensions": "14x12x1 cm",
+        "shippingWeight": "150g",
+        "averagePrice": 19,
+        "supplierCost": 13
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "CD"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b86",
+      "productName": "Nevermind",
+      "description": "Nirvana's groundbreaking grunge album, featuring 'Smells Like Teen Spirit'.",
+      "productSpecifics": {
+        "productDimensions": "14x12x1 cm",
+        "shippingWeight": "145g",
+        "averagePrice": 18,
+        "supplierCost": 12
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "CD"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b87",
+      "productName": "The Wall",
+      "description": "Pink Floyd's rock opera, exploring isolation and mental struggles.",
+      "productSpecifics": {
+        "productDimensions": "14x12x1.5 cm",
+        "shippingWeight": "170g",
+        "averagePrice": 21,
+        "supplierCost": 15
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "CD"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b88",
+      "productName": "Led Zeppelin IV",
+      "description": "Led Zeppelin's iconic album, featuring 'Stairway to Heaven' and other rock classics.",
+      "productSpecifics": {
+        "productDimensions": "14x12x1 cm",
+        "shippingWeight": "160g",
+        "averagePrice": 19,
+        "supplierCost": 13
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "CD"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b89",
+      "productName": "iPhone 14 Pro",
+      "description": "Apple's flagship smartphone with advanced camera technology and A16 Bionic chip.",
+      "productSpecifics": {
+        "productDimensions": "147x72x8 mm",
+        "shippingWeight": "240g",
+        "averagePrice": 1200,
+        "supplierCost": 1000
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "MobilePhone"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b8a",
+      "productName": "Samsung Galaxy S23 Ultra",
+      "description": "Samsung's premium smartphone with a 200MP camera and Snapdragon 8 Gen 2 processor.",
+      "productSpecifics": {
+        "productDimensions": "163x78x8.9 mm",
+        "shippingWeight": "240g",
+        "averagePrice": 1300,
+        "supplierCost": 1100
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "MobilePhone"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b8b",
+      "productName": "Google Pixel 7 Pro",
+      "description": "Google's flagship phone with a Tensor G2 processor and advanced AI features.",
+      "productSpecifics": {
+        "productDimensions": "162x76x8.7 mm",
+        "shippingWeight": "212g",
+        "averagePrice": 900,
+        "supplierCost": 750
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "MobilePhone"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b8c",
+      "productName": "OnePlus 11",
+      "description": "OnePlus's latest smartphone with Snapdragon 8 Gen 2 and Hasselblad cameras.",
+      "productSpecifics": {
+        "productDimensions": "163x74x8.5 mm",
+        "shippingWeight": "205g",
+        "averagePrice": 800,
+        "supplierCost": 650
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "MobilePhone"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b8d",
+      "productName": "Xiaomi 13 Pro",
+      "description": "Xiaomi's flagship phone with Leica optics and Snapdragon 8 Gen 2 processor.",
+      "productSpecifics": {
+        "productDimensions": "163x74x8.4 mm",
+        "shippingWeight": "229g",
+        "averagePrice": 1000,
+        "supplierCost": 850
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "MobilePhone"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b8e",
+      "productName": "Sony Xperia 1 IV",
+      "description": "Sony's flagship smartphone with a 4K HDR OLED display and professional-grade cameras.",
+      "productSpecifics": {
+        "productDimensions": "165x71x8.2 mm",
+        "shippingWeight": "185g",
+        "averagePrice": 1200,
+        "supplierCost": 1000
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "MobilePhone"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b8f",
+      "productName": "Oppo Find X5 Pro",
+      "description": "Oppo's premium smartphone with advanced imaging technology and Snapdragon 8 Gen 1.",
+      "productSpecifics": {
+        "productDimensions": "163x74x8.5 mm",
+        "shippingWeight": "218g",
+        "averagePrice": 950,
+        "supplierCost": 800
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "MobilePhone"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b90",
+      "productName": "Huawei Mate 50 Pro",
+      "description": "Huawei's top-tier smartphone with XMAGE imaging and a stunning OLED display.",
+      "productSpecifics": {
+        "productDimensions": "162x75x8.5 mm",
+        "shippingWeight": "205g",
+        "averagePrice": 1100,
+        "supplierCost": 950
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "MobilePhone"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b91",
+      "productName": "Realme GT 3",
+      "description": "Realme's performance smartphone with ultra-fast charging and AMOLED display.",
+      "productSpecifics": {
+        "productDimensions": "162x74x8.6 mm",
+        "shippingWeight": "190g",
+        "averagePrice": 650,
+        "supplierCost": 500
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "MobilePhone"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b92",
+      "productName": "Vivo X90 Pro+",
+      "description": "Vivo's flagship device with ZEISS optics and a Snapdragon 8 Gen 2 processor.",
+      "productSpecifics": {
+        "productDimensions": "164x75x9 mm",
+        "shippingWeight": "214g",
+        "averagePrice": 1100,
+        "supplierCost": 900
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "MobilePhone"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b93",
+      "productName": "Dyson V12 Cordless Vacuum Cleaner",
+      "description": "Powerful and lightweight cordless vacuum cleaner with advanced filtration.",
+      "productSpecifics": {
+        "productDimensions": "25x21x125 cm",
+        "shippingWeight": "2.5kg",
+        "averagePrice": 650,
+        "supplierCost": 500
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "HomeAppliance"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b94",
+      "productName": "Philips Airfryer XXL",
+      "description": "Healthy cooking with rapid air technology for frying, grilling, and baking.",
+      "productSpecifics": {
+        "productDimensions": "43x32x31 cm",
+        "shippingWeight": "5kg",
+        "averagePrice": 350,
+        "supplierCost": 280
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "HomeAppliance"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b95",
+      "productName": "Samsung 4K Smart TV 55-inch",
+      "description": "Ultra HD Smart TV with crystal-clear picture quality and built-in streaming apps.",
+      "productSpecifics": {
+        "productDimensions": "123x25x78 cm",
+        "shippingWeight": "12kg",
+        "averagePrice": 700,
+        "supplierCost": 550
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "HomeAppliance"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b96",
+      "productName": "Bosch Dishwasher Series 4",
+      "description": "Quiet and energy-efficient dishwasher with multiple cleaning cycles.",
+      "productSpecifics": {
+        "productDimensions": "60x60x84 cm",
+        "shippingWeight": "40kg",
+        "averagePrice": 800,
+        "supplierCost": 650
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "HomeAppliance"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b97",
+      "productName": "LG Front Load Washing Machine",
+      "description": "Advanced washing machine with AI technology for customized washing cycles.",
+      "productSpecifics": {
+        "productDimensions": "85x60x55 cm",
+        "shippingWeight": "65kg",
+        "averagePrice": 950,
+        "supplierCost": 800
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "HomeAppliance"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b98",
+      "productName": "Panasonic Microwave Oven",
+      "description": "Compact and powerful microwave with inverter technology for even cooking.",
+      "productSpecifics": {
+        "productDimensions": "48x39x27 cm",
+        "shippingWeight": "11kg",
+        "averagePrice": 300,
+        "supplierCost": 240
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "HomeAppliance"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b99",
+      "productName": "KitchenAid Stand Mixer",
+      "description": "Versatile stand mixer for baking and cooking, with multiple attachments.",
+      "productSpecifics": {
+        "productDimensions": "36x22x34 cm",
+        "shippingWeight": "10kg",
+        "averagePrice": 400,
+        "supplierCost": 320
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "HomeAppliance"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b9a",
+      "productName": "Whirlpool Double-Door Refrigerator",
+      "description": "Spacious and energy-efficient refrigerator with frost-free technology.",
+      "productSpecifics": {
+        "productDimensions": "70x70x175 cm",
+        "shippingWeight": "68kg",
+        "averagePrice": 1200,
+        "supplierCost": 950
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "HomeAppliance"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b9b",
+      "productName": "Braun Multiquick Hand Blender",
+      "description": "Compact and versatile hand blender for soups, smoothies, and more.",
+      "productSpecifics": {
+        "productDimensions": "7x7x39 cm",
+        "shippingWeight": "1.8kg",
+        "averagePrice": 80,
+        "supplierCost": 65
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "HomeAppliance"
+    },
+    {
+      "_id": "6758c8a6333cf916c9322b9c",
+      "productName": "De'Longhi Espresso Machine",
+      "description": "Professional-grade espresso machine for barista-style coffee at home.",
+      "productSpecifics": {
+        "productDimensions": "24x33x30 cm",
+        "shippingWeight": "5.5kg",
+        "averagePrice": 600,
+        "supplierCost": 480
+      },
+      "storageDetails": {
+        "storageID": "67589d831814df7d9eb60c9a",
+        "storageName": "Dale Street Warehouse",
+        "storageLocation": "Dale Street, Northern Quarter, Manchester, UK"
+      },
+      "categoryName": "HomeAppliance"
+    }
+  ]
+  
+  
+
+
+  

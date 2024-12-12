@@ -1,0 +1,602 @@
+[
+    {
+        "_id": "675a59d4eebe63ef0d51d51d",
+        "customerID": "6759d559b156995774e8b89a",
+        "totalCost": 4037,
+        "orderDate": "2020-03-05T14:14:42.569191"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d51e",
+        "customerID": "6759d559b156995774e8b89a",
+        "totalCost": 5132,
+        "orderDate": "2023-01-27T00:11:48.160085"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d51f",
+        "customerID": "6759d559b156995774e8b89a",
+        "totalCost": 5.5,
+        "orderDate": "2021-10-31T16:14:32.100003"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d520",
+        "customerID": "6759d559b156995774e8b89a",
+        "totalCost": 2400,
+        "orderDate": "2020-01-23T20:27:50.922306"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d521",
+        "customerID": "6759d559b156995774e8b89a",
+        "totalCost": 2001.2,
+        "orderDate": "2022-08-21T04:52:55.608416"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d522",
+        "customerID": "6759d559b156995774e8b89b",
+        "totalCost": 1540,
+        "orderDate": "2022-02-27T06:48:50.649162"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d523",
+        "customerID": "6759d559b156995774e8b89b",
+        "totalCost": 690.2,
+        "orderDate": "2021-12-20T01:23:49.418103"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d524",
+        "customerID": "6759d559b156995774e8b89b",
+        "totalCost": 2269.8,
+        "orderDate": "2021-12-18T14:36:16.302755"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d525",
+        "customerID": "6759d559b156995774e8b89b",
+        "totalCost": 1950,
+        "orderDate": "2022-09-09T10:58:22.489918"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d526",
+        "customerID": "6759d559b156995774e8b89b",
+        "totalCost": 254,
+        "orderDate": "2024-10-19T02:34:12.148700"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d527",
+        "customerID": "6759d559b156995774e8b89c",
+        "totalCost": 1.6,
+        "orderDate": "2024-02-27T18:11:17.046551"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d528",
+        "customerID": "6759d559b156995774e8b89c",
+        "totalCost": 26.3,
+        "orderDate": "2023-11-03T01:44:20.823846"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d529",
+        "customerID": "6759d559b156995774e8b89c",
+        "totalCost": 4255.0,
+        "orderDate": "2022-03-04T05:19:09.704459"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d52a",
+        "customerID": "6759d559b156995774e8b89c",
+        "totalCost": 72.6,
+        "orderDate": "2022-12-12T23:24:53.525651"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d52b",
+        "customerID": "6759d559b156995774e8b89c",
+        "totalCost": 1618,
+        "orderDate": "2021-05-04T00:37:04.725277"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d52c",
+        "customerID": "6759d559b156995774e8b89d",
+        "totalCost": 2489,
+        "orderDate": "2023-01-31T06:51:17.479333"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d52d",
+        "customerID": "6759d559b156995774e8b89d",
+        "totalCost": 2920,
+        "orderDate": "2021-11-01T01:59:48.687017"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d52e",
+        "customerID": "6759d559b156995774e8b89d",
+        "totalCost": 1933,
+        "orderDate": "2021-12-20T11:02:17.151221"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d52f",
+        "customerID": "6759d559b156995774e8b89d",
+        "totalCost": 1775,
+        "orderDate": "2024-07-04T08:55:00.140421"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d530",
+        "customerID": "6759d559b156995774e8b89d",
+        "totalCost": 503.0,
+        "orderDate": "2024-01-16T03:17:26.746749"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d531",
+        "customerID": "6759d559b156995774e8b89e",
+        "totalCost": 31.2,
+        "orderDate": "2024-08-15T07:25:31.676778"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d532",
+        "customerID": "6759d559b156995774e8b89e",
+        "totalCost": 2633.2000000000003,
+        "orderDate": "2022-07-04T01:27:16.270601"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d533",
+        "customerID": "6759d559b156995774e8b89e",
+        "totalCost": 4055.6,
+        "orderDate": "2022-05-25T23:29:06.258045"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d534",
+        "customerID": "6759d559b156995774e8b89e",
+        "totalCost": 33,
+        "orderDate": "2022-10-14T11:39:58.835914"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d535",
+        "customerID": "6759d559b156995774e8b89e",
+        "totalCost": 16,
+        "orderDate": "2020-09-05T15:37:56.111167"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d536",
+        "customerID": "6759d559b156995774e8b89f",
+        "totalCost": 1780,
+        "orderDate": "2024-06-07T21:15:22.451585"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d537",
+        "customerID": "6759d559b156995774e8b89f",
+        "totalCost": 1.6,
+        "orderDate": "2020-07-28T21:24:09.693349"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d538",
+        "customerID": "6759d559b156995774e8b89f",
+        "totalCost": 1.4,
+        "orderDate": "2023-12-24T03:18:43.668262"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d539",
+        "customerID": "6759d559b156995774e8b89f",
+        "totalCost": 1503.6,
+        "orderDate": "2023-08-24T23:14:56.428911"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d53a",
+        "customerID": "6759d559b156995774e8b89f",
+        "totalCost": 2480,
+        "orderDate": "2024-04-04T08:59:23.871180"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d53b",
+        "customerID": "6759d559b156995774e8b8a0",
+        "totalCost": 6450,
+        "orderDate": "2020-02-16T23:35:16.887268"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d53c",
+        "customerID": "6759d559b156995774e8b8a0",
+        "totalCost": 74,
+        "orderDate": "2020-11-01T23:10:43.734795"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d53d",
+        "customerID": "6759d559b156995774e8b8a0",
+        "totalCost": 40,
+        "orderDate": "2024-08-07T17:13:16.121912"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d53e",
+        "customerID": "6759d559b156995774e8b8a0",
+        "totalCost": 3012.7,
+        "orderDate": "2022-09-04T18:18:07.807346"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d53f",
+        "customerID": "6759d559b156995774e8b8a0",
+        "totalCost": 0.8,
+        "orderDate": "2020-09-15T17:31:58.889093"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d540",
+        "customerID": "6759d559b156995774e8b8a1",
+        "totalCost": 1505.0,
+        "orderDate": "2021-11-09T09:06:25.499710"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d541",
+        "customerID": "6759d559b156995774e8b8a1",
+        "totalCost": 6,
+        "orderDate": "2021-07-19T21:23:47.321946"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d542",
+        "customerID": "6759d559b156995774e8b8a1",
+        "totalCost": 2508,
+        "orderDate": "2023-07-27T16:32:30.299500"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d543",
+        "customerID": "6759d559b156995774e8b8a1",
+        "totalCost": 1608,
+        "orderDate": "2020-01-05T01:29:05.080801"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d544",
+        "customerID": "6759d559b156995774e8b8a1",
+        "totalCost": 22,
+        "orderDate": "2020-04-12T13:32:37.319914"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d545",
+        "customerID": "6759d559b156995774e8b8a2",
+        "totalCost": 40.5,
+        "orderDate": "2024-03-04T17:21:26.493916"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d546",
+        "customerID": "6759d559b156995774e8b8a2",
+        "totalCost": 22,
+        "orderDate": "2022-08-07T08:14:55.955231"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d547",
+        "customerID": "6759d559b156995774e8b8a2",
+        "totalCost": 245.6,
+        "orderDate": "2022-12-28T16:08:25.654108"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d548",
+        "customerID": "6759d559b156995774e8b8a2",
+        "totalCost": 6.0,
+        "orderDate": "2022-02-22T01:01:55.684502"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d549",
+        "customerID": "6759d559b156995774e8b8a2",
+        "totalCost": 260.2,
+        "orderDate": "2022-04-05T18:33:10.362467"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d54a",
+        "customerID": "6759d559b156995774e8b8a3",
+        "totalCost": 1500,
+        "orderDate": "2024-02-28T13:47:21.067698"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d54b",
+        "customerID": "6759d559b156995774e8b8a3",
+        "totalCost": 12,
+        "orderDate": "2024-02-17T15:11:53.560608"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d54c",
+        "customerID": "6759d559b156995774e8b8a3",
+        "totalCost": 1801.2,
+        "orderDate": "2021-08-02T16:36:29.374045"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d54d",
+        "customerID": "6759d559b156995774e8b8a3",
+        "totalCost": 3591,
+        "orderDate": "2023-12-10T09:48:05.129279"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d54e",
+        "customerID": "6759d559b156995774e8b8a3",
+        "totalCost": 4,
+        "orderDate": "2024-04-03T14:08:38.930901"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d54f",
+        "customerID": "6759d559b156995774e8b8a4",
+        "totalCost": 1353,
+        "orderDate": "2023-02-20T01:21:23.345378"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d550",
+        "customerID": "6759d559b156995774e8b8a4",
+        "totalCost": 1122,
+        "orderDate": "2020-05-04T13:16:42.571293"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d551",
+        "customerID": "6759d559b156995774e8b8a4",
+        "totalCost": 88.9,
+        "orderDate": "2022-08-22T18:52:34.835679"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d552",
+        "customerID": "6759d559b156995774e8b8a4",
+        "totalCost": 2552,
+        "orderDate": "2022-03-16T09:58:55.221071"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d553",
+        "customerID": "6759d559b156995774e8b8a4",
+        "totalCost": 3706,
+        "orderDate": "2022-05-04T11:58:42.078950"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d554",
+        "customerID": "6759d559b156995774e8b8a5",
+        "totalCost": 3660,
+        "orderDate": "2021-04-13T08:59:15.460679"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d555",
+        "customerID": "6759d559b156995774e8b8a5",
+        "totalCost": 8.8,
+        "orderDate": "2021-01-27T08:27:23.118570"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d556",
+        "customerID": "6759d559b156995774e8b8a5",
+        "totalCost": 580,
+        "orderDate": "2020-02-20T10:34:01.445233"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d557",
+        "customerID": "6759d559b156995774e8b8a5",
+        "totalCost": 31,
+        "orderDate": "2024-03-31T11:00:54.552815"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d558",
+        "customerID": "6759d559b156995774e8b8a5",
+        "totalCost": 3440,
+        "orderDate": "2021-01-17T18:51:25.806109"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d559",
+        "customerID": "6759d559b156995774e8b8a6",
+        "totalCost": 1358,
+        "orderDate": "2021-10-17T02:44:00.820855"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d55a",
+        "customerID": "6759d559b156995774e8b8a6",
+        "totalCost": 2296.3,
+        "orderDate": "2022-08-27T17:59:45.662042"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d55b",
+        "customerID": "6759d559b156995774e8b8a6",
+        "totalCost": 69.0,
+        "orderDate": "2023-09-30T15:58:20.092744"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d55c",
+        "customerID": "6759d559b156995774e8b8a6",
+        "totalCost": 6.0,
+        "orderDate": "2021-11-27T04:42:08.302016"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d55d",
+        "customerID": "6759d559b156995774e8b8a6",
+        "totalCost": 7006.5,
+        "orderDate": "2021-12-22T07:02:38.915007"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d55e",
+        "customerID": "6759d559b156995774e8b8a7",
+        "totalCost": 14.600000000000001,
+        "orderDate": "2021-10-30T14:36:16.943606"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d55f",
+        "customerID": "6759d559b156995774e8b8a7",
+        "totalCost": 3850,
+        "orderDate": "2024-10-02T17:08:30.961214"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d560",
+        "customerID": "6759d559b156995774e8b8a7",
+        "totalCost": 862,
+        "orderDate": "2021-06-18T09:26:50.153441"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d561",
+        "customerID": "6759d559b156995774e8b8a7",
+        "totalCost": 13,
+        "orderDate": "2022-10-15T10:27:01.452051"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d562",
+        "customerID": "6759d559b156995774e8b8a7",
+        "totalCost": 1500,
+        "orderDate": "2020-12-06T21:14:14.953568"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d563",
+        "customerID": "6759d559b156995774e8b8a8",
+        "totalCost": 131.5,
+        "orderDate": "2024-05-31T14:35:59.286539"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d564",
+        "customerID": "6759d559b156995774e8b8a8",
+        "totalCost": 22,
+        "orderDate": "2020-05-28T16:47:39.922674"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d565",
+        "customerID": "6759d559b156995774e8b8a8",
+        "totalCost": 2850,
+        "orderDate": "2020-11-05T19:32:49.819916"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d566",
+        "customerID": "6759d559b156995774e8b8a8",
+        "totalCost": 62,
+        "orderDate": "2020-10-17T06:32:55.075063"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d567",
+        "customerID": "6759d559b156995774e8b8a8",
+        "totalCost": 304,
+        "orderDate": "2023-05-06T18:06:39.974002"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d568",
+        "customerID": "6759d559b156995774e8b8a9",
+        "totalCost": 1338,
+        "orderDate": "2020-11-07T21:43:39.114075"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d569",
+        "customerID": "6759d559b156995774e8b8a9",
+        "totalCost": 26,
+        "orderDate": "2024-04-26T17:15:11.884740"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d56a",
+        "customerID": "6759d559b156995774e8b8a9",
+        "totalCost": 28,
+        "orderDate": "2022-05-12T03:45:29.061408"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d56b",
+        "customerID": "6759d559b156995774e8b8a9",
+        "totalCost": 1950,
+        "orderDate": "2021-04-11T22:14:04.218047"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d56c",
+        "customerID": "6759d559b156995774e8b8a9",
+        "totalCost": 45,
+        "orderDate": "2022-06-28T12:47:02.711417"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d56d",
+        "customerID": "6759d559b156995774e8b8aa",
+        "totalCost": 262.5,
+        "orderDate": "2023-01-06T00:25:16.398745"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d56e",
+        "customerID": "6759d559b156995774e8b8aa",
+        "totalCost": 2360,
+        "orderDate": "2022-01-25T17:18:01.643262"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d56f",
+        "customerID": "6759d559b156995774e8b8aa",
+        "totalCost": 12,
+        "orderDate": "2024-03-22T17:49:52.085258"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d570",
+        "customerID": "6759d559b156995774e8b8aa",
+        "totalCost": 12.7,
+        "orderDate": "2024-06-01T21:37:50.234559"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d571",
+        "customerID": "6759d559b156995774e8b8aa",
+        "totalCost": 5013,
+        "orderDate": "2020-04-03T16:18:59.579642"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d572",
+        "customerID": "6759d559b156995774e8b8ab",
+        "totalCost": 61.8,
+        "orderDate": "2022-11-23T14:33:28.336802"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d573",
+        "customerID": "6759d559b156995774e8b8ab",
+        "totalCost": 19.2,
+        "orderDate": "2022-05-14T06:02:41.568135"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d574",
+        "customerID": "6759d559b156995774e8b8ab",
+        "totalCost": 3862.2,
+        "orderDate": "2021-11-07T13:46:10.965193"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d575",
+        "customerID": "6759d559b156995774e8b8ab",
+        "totalCost": 1072,
+        "orderDate": "2023-05-16T13:25:58.584310"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d576",
+        "customerID": "6759d559b156995774e8b8ab",
+        "totalCost": 1110.7,
+        "orderDate": "2024-04-03T02:28:47.866144"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d577",
+        "customerID": "6759d559b156995774e8b8ac",
+        "totalCost": 1854,
+        "orderDate": "2020-10-05T17:49:42.139234"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d578",
+        "customerID": "6759d559b156995774e8b8ac",
+        "totalCost": 3606,
+        "orderDate": "2022-10-30T03:30:13.747685"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d579",
+        "customerID": "6759d559b156995774e8b8ac",
+        "totalCost": 37.2,
+        "orderDate": "2020-12-15T12:43:33.238696"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d57a",
+        "customerID": "6759d559b156995774e8b8ac",
+        "totalCost": 2447,
+        "orderDate": "2023-02-23T03:56:41.744495"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d57b",
+        "customerID": "6759d559b156995774e8b8ac",
+        "totalCost": 4048,
+        "orderDate": "2024-07-26T13:02:18.243606"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d57c",
+        "customerID": "6759d559b156995774e8b8ad",
+        "totalCost": 40,
+        "orderDate": "2020-09-16T08:10:29.950974"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d57d",
+        "customerID": "6759d559b156995774e8b8ad",
+        "totalCost": 1.2,
+        "orderDate": "2021-06-21T20:09:17.473319"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d57e",
+        "customerID": "6759d559b156995774e8b8ad",
+        "totalCost": 1682,
+        "orderDate": "2020-07-27T21:50:59.123782"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d57f",
+        "customerID": "6759d559b156995774e8b8ad",
+        "totalCost": 1649.4,
+        "orderDate": "2024-07-11T07:32:46.522802"
+    },
+    {
+        "_id": "675a59d4eebe63ef0d51d580",
+        "customerID": "6759d559b156995774e8b8ad",
+        "totalCost": 199.4,
+        "orderDate": "2022-04-18T10:15:43.672463"
+    }
+]
