@@ -12,7 +12,7 @@
       },
       "driverStatus": {
         "isActive": true,
-        "onRoute": true,
+        "onRoute": false,
         "pickedOrderID": "6759dd6ecbe1fc1a3c2d27da",
         "ETA": 25.3
       },
@@ -66,7 +66,7 @@
       },
       "driverStatus": {
         "isActive": true,
-        "onRoute": true,
+        "onRoute": false,
         "pickedOrderID": "6759dd6ecbe1fc1a3c2d27de",
         "ETA": 45.2
       },
@@ -120,7 +120,7 @@
       },
       "driverStatus": {
         "isActive": true,
-        "onRoute": true,
+        "onRoute": false,
         "pickedOrderID": "6759dd6ecbe1fc1a3c2d27e2",
         "ETA": 20.5
       },
