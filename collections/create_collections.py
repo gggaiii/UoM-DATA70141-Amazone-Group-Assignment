@@ -20,21 +20,21 @@ db = client['Amazone']
 #Reset the database
 collections = {
     "warehouses": "warehouses.json",
-    "products": "products.json",
-    "freshProducts": "freshProducts.json",
-    "others": "others.json",
-    "books": "books.json",
-    "cds": "cds.json",
-    "mobilePhones": "mobilePhones.json",
-    "homeAppliances": "homeAppliances.json",
-    "dailyInventory": "dailyInventory.json",
+    # "products": "products.json",
+    # "freshProducts": "freshProducts.json",
+    # "others": "others.json",
+    # "books": "books.json",
+    # "cds": "cds.json",
+    # "mobilePhones": "mobilePhones.json",
+    # "homeAppliances": "homeAppliances.json",
+    # "dailyInventory": "dailyInventory.json",
     "stores": "stores.json",
-    "customerAddresses": "customerAddresses.json",
+    # "customerAddresses": "customerAddresses.json",
     "partners": "partners.json",
-    "customers": "customers.json",
-    "customerRatings": "customerRatings.json",
-    "pastOrders": "pastOrders.json",
-    "pastOrderItems": "pastOrderItems.json"
+    # "customers": "customers.json",
+    # "customerRatings": "customerRatings.json",
+    # "pastOrders": "pastOrders.json",
+    # "pastOrderItems": "pastOrderItems.json"
 }
 
 for collection in collections.keys():
@@ -77,7 +77,7 @@ def convert_dates_to_isodate(data):
         return data
     
 for collection, file in collections.items():
-    file = open(f"./collections/{file}")
+    file = open(f"Amazone-Group-Assignment/collections/{file}")
     data = json.load(file)
     data = convert_ids_to_objectid(data)
     data = convert_dates_to_isodate(data)
