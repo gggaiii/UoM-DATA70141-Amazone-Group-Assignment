@@ -1,0 +1,25 @@
+[
+    {
+        "Order Details": {
+            "Time": "2024-12-14T16:59:52.488580",
+            "Customer": "John Doe",
+            "Product": "Almond Danish",
+            "Quantity": 2,
+            "Store": {
+                "Store ID": "6759c5a3154e92d1bb477993",
+                "Location": "High Street",
+                "City": "Manchester",
+                "Postcode": "M1 4AA"
+            },
+            "Assigned Driver": {
+                "Name": "Virgil van Dijk",
+                "Rating": 4.3,
+                "TotalDeliveries": 1009
+            },
+            "Delivery Details": {
+                "Total Distance (miles)": 1.34,
+                "Estimated Delivery Time (minutes)": 2
+            }
+        }
+    }
+]

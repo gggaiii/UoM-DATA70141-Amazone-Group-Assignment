@@ -1,0 +1,196 @@
+[
+    {
+        "customer": "John Doe",
+        "nearest 5 stores": [
+            {
+                "address": "Chester Road",
+                "postcode": "M15 4FN"
+            },
+            {
+                "address": "Whitworth Street",
+                "postcode": "M1 6EL"
+            },
+            {
+                "address": "Oxford Road",
+                "postcode": "M1 5AN"
+            },
+            {
+                "address": "Portland Street",
+                "postcode": "M1 3LD"
+            },
+            {
+                "address": "High Street",
+                "postcode": "M1 4AA"
+            }
+        ],
+        "fresh products available": [
+            {
+                "productName": "Carrots",
+                "description": "Fresh and crunchy carrots, great for cooking or snacking.",
+                "price": 0.8
+            },
+            {
+                "productName": "Spinach",
+                "description": "Fresh leafy spinach, packed with vitamins and nutrients.",
+                "price": 1.5
+            },
+            {
+                "productName": "Potatoes",
+                "description": "Versatile and starchy potatoes, ideal for many dishes.",
+                "price": 2
+            },
+            {
+                "productName": "Broccoli",
+                "description": "Fresh green broccoli, rich in vitamins and minerals.",
+                "price": 1.8
+            },
+            {
+                "productName": "Red Bell Peppers",
+                "description": "Crisp and sweet red bell peppers, perfect for salads or cooking.",
+                "price": 1.2
+            },
+            {
+                "productName": "Avocado",
+                "description": "Rich and creamy avocados, ideal for salads and toast.",
+                "price": 1.2
+            },
+            {
+                "productName": "Blueberries",
+                "description": "Fresh and plump blueberries, full of antioxidants.",
+                "price": 2.5
+            },
+            {
+                "productName": "Cold Brew Coffee",
+                "description": "A smooth and bold cold brew coffee, ready to drink.",
+                "price": 2
+            },
+            {
+                "productName": "Organic Green Tea",
+                "description": "A bottle of organic green tea with a hint of honey.",
+                "price": 1.5
+            },
+            {
+                "productName": "Berry Smoothie",
+                "description": "A delicious blend of mixed berries in a creamy smoothie.",
+                "price": 2.2
+            },
+            {
+                "productName": "Banana",
+                "description": "Fresh yellow bananas, a healthy source of energy.",
+                "price": 0.3
+            },
+            {
+                "productName": "Seedless Grapes",
+                "description": "Juicy and sweet green seedless grapes.",
+                "price": 2
+            },
+            {
+                "productName": "Chocolate Croissant",
+                "description": "A buttery and flaky croissant filled with rich chocolate.",
+                "price": 2
+            },
+            {
+                "productName": "Almond Danish",
+                "description": "A flaky pastry filled with almond cream and topped with slivered almonds.",
+                "price": 3
+            }
+        ]
+    },
+    {
+        "customer": "Kim Jane",
+        "nearest 5 stores": [
+            {
+                "address": "Chester Road",
+                "postcode": "M15 4FN"
+            },
+            {
+                "address": "Whitworth Street",
+                "postcode": "M1 6EL"
+            },
+            {
+                "address": "Oxford Road",
+                "postcode": "M1 5AN"
+            },
+            {
+                "address": "Portland Street",
+                "postcode": "M1 3LD"
+            },
+            {
+                "address": "High Street",
+                "postcode": "M1 4AA"
+            }
+        ],
+        "fresh products available": [
+            {
+                "productName": "Carrots",
+                "description": "Fresh and crunchy carrots, great for cooking or snacking.",
+                "price": 0.8
+            },
+            {
+                "productName": "Spinach",
+                "description": "Fresh leafy spinach, packed with vitamins and nutrients.",
+                "price": 1.5
+            },
+            {
+                "productName": "Potatoes",
+                "description": "Versatile and starchy potatoes, ideal for many dishes.",
+                "price": 2
+            },
+            {
+                "productName": "Broccoli",
+                "description": "Fresh green broccoli, rich in vitamins and minerals.",
+                "price": 1.8
+            },
+            {
+                "productName": "Red Bell Peppers",
+                "description": "Crisp and sweet red bell peppers, perfect for salads or cooking.",
+                "price": 1.2
+            },
+            {
+                "productName": "Avocado",
+                "description": "Rich and creamy avocados, ideal for salads and toast.",
+                "price": 1.2
+            },
+            {
+                "productName": "Blueberries",
+                "description": "Fresh and plump blueberries, full of antioxidants.",
+                "price": 2.5
+            },
+            {
+                "productName": "Cold Brew Coffee",
+                "description": "A smooth and bold cold brew coffee, ready to drink.",
+                "price": 2
+            },
+            {
+                "productName": "Organic Green Tea",
+                "description": "A bottle of organic green tea with a hint of honey.",
+                "price": 1.5
+            },
+            {
+                "productName": "Berry Smoothie",
+                "description": "A delicious blend of mixed berries in a creamy smoothie.",
+                "price": 2.2
+            },
+            {
+                "productName": "Banana",
+                "description": "Fresh yellow bananas, a healthy source of energy.",
+                "price": 0.3
+            },
+            {
+                "productName": "Seedless Grapes",
+                "description": "Juicy and sweet green seedless grapes.",
+                "price": 2
+            },
+            {
+                "productName": "Chocolate Croissant",
+                "description": "A buttery and flaky croissant filled with rich chocolate.",
+                "price": 2
+            },
+            {
+                "productName": "Almond Danish",
+                "description": "A flaky pastry filled with almond cream and topped with slivered almonds.",
+                "price": 3
+            }
+        ]
+    }
+]
