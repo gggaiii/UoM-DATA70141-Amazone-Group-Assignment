@@ -1,0 +1,142 @@
+[
+    {
+        "totalsaleQuantity": 4,
+        "productName": "Banana Loaf",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b65",
+        "totalstoreQuantity": 100
+    },
+    {
+        "totalsaleQuantity": 6,
+        "productName": "Cold Brew Coffee",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b67",
+        "totalstoreQuantity": 140
+    },
+    {
+        "totalsaleQuantity": 12,
+        "productName": "Baguette",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b63",
+        "totalstoreQuantity": 200
+    },
+    {
+        "totalsaleQuantity": 6,
+        "productName": "Gala Apple",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b6b",
+        "totalstoreQuantity": 140
+    },
+    {
+        "totalsaleQuantity": 5,
+        "productName": "Avocado",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b6e",
+        "totalstoreQuantity": 110
+    },
+    {
+        "totalsaleQuantity": 11,
+        "productName": "Broccoli",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b73",
+        "totalstoreQuantity": 140
+    },
+    {
+        "totalsaleQuantity": 11,
+        "productName": "Organic Green Tea",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b68",
+        "totalstoreQuantity": 130
+    },
+    {
+        "totalsaleQuantity": 13,
+        "productName": "Banana",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b6c",
+        "totalstoreQuantity": 130
+    },
+    {
+        "totalsaleQuantity": 12,
+        "productName": "Spinach",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b71",
+        "totalstoreQuantity": 100
+    },
+    {
+        "totalsaleQuantity": 6,
+        "productName": "Red Bell Peppers",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b74",
+        "totalstoreQuantity": 90
+    },
+    {
+        "totalsaleQuantity": 5,
+        "productName": "Chocolate Croissant",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b61",
+        "totalstoreQuantity": 150
+    },
+    {
+        "totalsaleQuantity": 15,
+        "productName": "Potatoes",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b72",
+        "totalstoreQuantity": 160
+    },
+    {
+        "totalsaleQuantity": 5,
+        "productName": "Carrots",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b70",
+        "totalstoreQuantity": 120
+    },
+    {
+        "totalsaleQuantity": 14,
+        "productName": "Berry Smoothie",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b69",
+        "totalstoreQuantity": 200
+    },
+    {
+        "totalsaleQuantity": 3,
+        "productName": "Seedless Grapes",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b6d",
+        "totalstoreQuantity": 150
+    },
+    {
+        "totalsaleQuantity": 18,
+        "productName": "Almond Danish",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b62",
+        "totalstoreQuantity": 120
+    },
+    {
+        "totalsaleQuantity": 18,
+        "productName": "Orange Juice",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b6a",
+        "totalstoreQuantity": 170
+    },
+    {
+        "totalsaleQuantity": 18,
+        "productName": "Cheese Breadsticks",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b64",
+        "totalstoreQuantity": 180
+    },
+    {
+        "totalsaleQuantity": 16,
+        "productName": "Sparkling Water",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b66",
+        "totalstoreQuantity": 160
+    },
+    {
+        "totalsaleQuantity": 5,
+        "productName": "Blueberries",
+        "productType": "Fresh",
+        "productID": "6758c8a6333cf916c9322b6f",
+        "totalstoreQuantity": 175
+    }
+]
