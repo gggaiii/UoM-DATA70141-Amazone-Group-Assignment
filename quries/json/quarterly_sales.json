@@ -1,0 +1,82 @@
+[
+    {
+        "totalSales": 15075,
+        "quarter": "2020-Q1"
+    },
+    {
+        "totalSales": 6179,
+        "quarter": "2020-Q2"
+    },
+    {
+        "totalSales": 1740.4,
+        "quarter": "2020-Q3"
+    },
+    {
+        "totalSales": 7715.2,
+        "quarter": "2020-Q4"
+    },
+    {
+        "totalSales": 3448.8,
+        "quarter": "2021-Q1"
+    },
+    {
+        "totalSales": 8091.2,
+        "quarter": "2021-Q2"
+    },
+    {
+        "totalSales": 1807.2,
+        "quarter": "2021-Q3"
+    },
+    {
+        "totalSales": 21570.8,
+        "quarter": "2021-Q4"
+    },
+    {
+        "totalSales": 10713.0,
+        "quarter": "2022-Q1"
+    },
+    {
+        "totalSales": 8313.4,
+        "quarter": "2022-Q2"
+    },
+    {
+        "totalSales": 12004.3,
+        "quarter": "2022-Q3"
+    },
+    {
+        "totalSales": 4032.0,
+        "quarter": "2022-Q4"
+    },
+    {
+        "totalSales": 11683.5,
+        "quarter": "2023-Q1"
+    },
+    {
+        "totalSales": 1376,
+        "quarter": "2023-Q2"
+    },
+    {
+        "totalSales": 4080.6,
+        "quarter": "2023-Q3"
+    },
+    {
+        "totalSales": 3618.7,
+        "quarter": "2023-Q4"
+    },
+    {
+        "totalSales": 2100.1,
+        "quarter": "2024-Q1"
+    },
+    {
+        "totalSales": 5544.9,
+        "quarter": "2024-Q2"
+    },
+    {
+        "totalSales": 7543.6,
+        "quarter": "2024-Q3"
+    },
+    {
+        "totalSales": 4104,
+        "quarter": "2024-Q4"
+    }
+]
