@@ -27,20 +27,36 @@ def save_to_json(data, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(convert_objectid(data), f, ensure_ascii=False, indent=4)
 
-def calculate_sales_and_inventory(collection_past_order_items, collection_store):
+def calculate_sales_and_inventory(collection_past_order_items, collection_store, collection_products):
     pipeline = [
         {
             '$unwind': {
-                'path': '$items'
+                'path': '$items'  
+            }
+        }, {
+            "$lookup": {
+                "from": "products",
+                "localField": "items.productID",
+                "foreignField": "_id",
+                "as": "product_info"
+            }
+        }, {
+            "$unwind": {
+                "path": "$product_info"
+            }
+        }, {
+            "$match": {
+                "product_info.productType": "Fresh"  # choose productType is Fresh
             }
         }, {
             "$group": {
-                "_id": "$items.productID",  # group by productID 
-                "totalsaleQuantity": {"$sum": "$items.itemQuantity"},  # calcuate itemQuantity 
-                "productName": {"$first": "$items.productName"}  
+                "_id": "$items.productID",  # group by productID
+                "totalsaleQuantity": {"$sum": "$items.itemQuantity"},  
+                "productName": {"$first": "$items.productName"},  
+                "productType": {"$first": "$product_info.productType"} 
             }
         }, {
-            "$lookup": {#use the productID from pastorderitem to match the productID in the store collection
+            "$lookup": {
                 "from": "stores",
                 "let": {"productID": "$_id"},
                 "pipeline": [
@@ -63,6 +79,7 @@ def calculate_sales_and_inventory(collection_past_order_items, collection_store)
                 "_id": 0,
                 "productID": "$_id",
                 "productName": 1,
+                "productType": 1,
                 "totalsaleQuantity": 1,
                 "totalstoreQuantity": {"$ifNull": ["$inventory.totalstoreQuantity", 0]}
             }
