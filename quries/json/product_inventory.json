@@ -1,0 +1,102 @@
+[
+    {
+        "totalQuantity": 100,
+        "productName": "Banana Loaf",
+        "productID": "6758c8a6333cf916c9322b65"
+    },
+    {
+        "totalQuantity": 140,
+        "productName": "Cold Brew Coffee",
+        "productID": "6758c8a6333cf916c9322b67"
+    },
+    {
+        "totalQuantity": 200,
+        "productName": "Baguette",
+        "productID": "6758c8a6333cf916c9322b63"
+    },
+    {
+        "totalQuantity": 110,
+        "productName": "Avocado",
+        "productID": "6758c8a6333cf916c9322b6e"
+    },
+    {
+        "totalQuantity": 140,
+        "productName": "Gala Apple",
+        "productID": "6758c8a6333cf916c9322b6b"
+    },
+    {
+        "totalQuantity": 140,
+        "productName": "Broccoli",
+        "productID": "6758c8a6333cf916c9322b73"
+    },
+    {
+        "totalQuantity": 130,
+        "productName": "Banana",
+        "productID": "6758c8a6333cf916c9322b6c"
+    },
+    {
+        "totalQuantity": 130,
+        "productName": "Organic Green Tea",
+        "productID": "6758c8a6333cf916c9322b68"
+    },
+    {
+        "totalQuantity": 100,
+        "productName": "Spinach",
+        "productID": "6758c8a6333cf916c9322b71"
+    },
+    {
+        "totalQuantity": 90,
+        "productName": "Red Bell Peppers",
+        "productID": "6758c8a6333cf916c9322b74"
+    },
+    {
+        "totalQuantity": 150,
+        "productName": "Chocolate Croissant",
+        "productID": "6758c8a6333cf916c9322b61"
+    },
+    {
+        "totalQuantity": 120,
+        "productName": "Carrots",
+        "productID": "6758c8a6333cf916c9322b70"
+    },
+    {
+        "totalQuantity": 150,
+        "productName": "Seedless Grapes",
+        "productID": "6758c8a6333cf916c9322b6d"
+    },
+    {
+        "totalQuantity": 200,
+        "productName": "Berry Smoothie",
+        "productID": "6758c8a6333cf916c9322b69"
+    },
+    {
+        "totalQuantity": 160,
+        "productName": "Potatoes",
+        "productID": "6758c8a6333cf916c9322b72"
+    },
+    {
+        "totalQuantity": 170,
+        "productName": "Orange Juice",
+        "productID": "6758c8a6333cf916c9322b6a"
+    },
+    {
+        "totalQuantity": 120,
+        "productName": "Almond Danish",
+        "productID": "6758c8a6333cf916c9322b62"
+    },
+    {
+        "totalQuantity": 160,
+        "productName": "Sparkling Water",
+        "productID": "6758c8a6333cf916c9322b66"
+    },
+    {
+        "totalQuantity": 180,
+        "productName": "Cheese Breadsticks",
+        "productID": "6758c8a6333cf916c9322b64"
+    },
+    {
+        "totalQuantity": 175,
+        "productName": "Blueberries",
+        "productID": "6758c8a6333cf916c9322b6f"
+    }
+]
