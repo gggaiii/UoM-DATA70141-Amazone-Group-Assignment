@@ -1,297 +1,297 @@
 [
     {
-        "totalQuantity": 6,
-        "productName": "Cold Brew Coffee",
-        "productID": "6758c8a6333cf916c9322b67"
-    },
-    {
-        "totalQuantity": 5,
-        "productName": "Panasonic Microwave Oven",
-        "productID": "6758c8a6333cf916c9322b98"
-    },
-    {
-        "totalQuantity": 10,
-        "productName": "Vivo X90 Pro+",
-        "productID": "6758c8a6333cf916c9322b92"
-    },
-    {
-        "totalQuantity": 18,
-        "productName": "Almond Danish",
-        "productID": "6758c8a6333cf916c9322b62"
-    },
-    {
-        "totalQuantity": 18,
-        "productName": "LG Front Load Washing Machine",
-        "productID": "6758c8a6333cf916c9322b97"
-    },
-    {
-        "totalQuantity": 23,
-        "productName": "Rumours",
-        "productID": "6758c8a6333cf916c9322b83"
-    },
-    {
-        "totalQuantity": 10,
-        "productName": "Brave New World",
-        "productID": "6758c8a6333cf916c9322b7c"
-    },
-    {
-        "totalQuantity": 6,
-        "productName": "To Kill a Mockingbird",
-        "productID": "6758c8a6333cf916c9322b77"
-    },
-    {
-        "totalQuantity": 12,
-        "productName": "Spinach",
-        "productID": "6758c8a6333cf916c9322b71"
-    },
-    {
-        "totalQuantity": 13,
-        "productName": "Banana",
-        "productID": "6758c8a6333cf916c9322b6c"
-    },
-    {
-        "totalQuantity": 8,
-        "productName": "KitchenAid Stand Mixer",
-        "productID": "6758c8a6333cf916c9322b99"
-    },
-    {
-        "totalQuantity": 6,
+        "totalsaleQuantity": 6,
         "productName": "Gala Apple",
         "productID": "6758c8a6333cf916c9322b6b"
     },
     {
-        "totalQuantity": 26,
+        "totalsaleQuantity": 8,
+        "productName": "KitchenAid Stand Mixer",
+        "productID": "6758c8a6333cf916c9322b99"
+    },
+    {
+        "totalsaleQuantity": 26,
         "productName": "Braun Multiquick Hand Blender",
         "productID": "6758c8a6333cf916c9322b9b"
     },
     {
-        "totalQuantity": 12,
+        "totalsaleQuantity": 12,
         "productName": "Hotel California",
         "productID": "6758c8a6333cf916c9322b85"
     },
     {
-        "totalQuantity": 1,
-        "productName": "iPhone 14 Pro",
-        "productID": "6758c8a6333cf916c9322b89"
+        "totalsaleQuantity": 10,
+        "productName": "Brave New World",
+        "productID": "6758c8a6333cf916c9322b7c"
     },
     {
-        "totalQuantity": 5,
-        "productName": "Moby-Dick",
-        "productID": "6758c8a6333cf916c9322b79"
+        "totalsaleQuantity": 23,
+        "productName": "Rumours",
+        "productID": "6758c8a6333cf916c9322b83"
     },
     {
-        "totalQuantity": 11,
-        "productName": "The Catcher in the Rye",
-        "productID": "6758c8a6333cf916c9322b78"
+        "totalsaleQuantity": 13,
+        "productName": "Banana",
+        "productID": "6758c8a6333cf916c9322b6c"
     },
     {
-        "totalQuantity": 9,
-        "productName": "Oppo Find X5 Pro",
-        "productID": "6758c8a6333cf916c9322b8f"
+        "totalsaleQuantity": 12,
+        "productName": "Spinach",
+        "productID": "6758c8a6333cf916c9322b71"
     },
     {
-        "totalQuantity": 11,
-        "productName": "The Hobbit",
-        "productID": "6758c8a6333cf916c9322b7b"
+        "totalsaleQuantity": 6,
+        "productName": "To Kill a Mockingbird",
+        "productID": "6758c8a6333cf916c9322b77"
     },
     {
-        "totalQuantity": 11,
-        "productName": "The Wall",
-        "productID": "6758c8a6333cf916c9322b87"
+        "totalsaleQuantity": 18,
+        "productName": "LG Front Load Washing Machine",
+        "productID": "6758c8a6333cf916c9322b97"
     },
     {
-        "totalQuantity": 17,
-        "productName": "Dyson V12 Cordless Vacuum Cleaner",
-        "productID": "6758c8a6333cf916c9322b93"
+        "totalsaleQuantity": 10,
+        "productName": "Vivo X90 Pro+",
+        "productID": "6758c8a6333cf916c9322b92"
     },
     {
-        "totalQuantity": 15,
-        "productName": "Potatoes",
-        "productID": "6758c8a6333cf916c9322b72"
+        "totalsaleQuantity": 5,
+        "productName": "Panasonic Microwave Oven",
+        "productID": "6758c8a6333cf916c9322b98"
     },
     {
-        "totalQuantity": 11,
-        "productName": "Xiaomi 13 Pro",
-        "productID": "6758c8a6333cf916c9322b8d"
+        "totalsaleQuantity": 18,
+        "productName": "Almond Danish",
+        "productID": "6758c8a6333cf916c9322b62"
     },
     {
-        "totalQuantity": 7,
-        "productName": "Nevermind",
-        "productID": "6758c8a6333cf916c9322b86"
-    },
-    {
-        "totalQuantity": 14,
-        "productName": "Pride and Prejudice",
-        "productID": "6758c8a6333cf916c9322b76"
-    },
-    {
-        "totalQuantity": 8,
-        "productName": "Animal Farm",
-        "productID": "6758c8a6333cf916c9322b7e"
-    },
-    {
-        "totalQuantity": 21,
-        "productName": "Bosch Dishwasher Series 4",
-        "productID": "6758c8a6333cf916c9322b96"
-    },
-    {
-        "totalQuantity": 6,
-        "productName": "Born in the U.S.A.",
-        "productID": "6758c8a6333cf916c9322b84"
-    },
-    {
-        "totalQuantity": 7,
-        "productName": "1984",
-        "productID": "6758c8a6333cf916c9322b75"
-    },
-    {
-        "totalQuantity": 12,
-        "productName": "Baguette",
-        "productID": "6758c8a6333cf916c9322b63"
-    },
-    {
-        "totalQuantity": 19,
+        "totalsaleQuantity": 19,
         "productName": "Philips Airfryer XXL",
         "productID": "6758c8a6333cf916c9322b94"
     },
     {
-        "totalQuantity": 7,
-        "productName": "Dark Side of the Moon",
-        "productID": "6758c8a6333cf916c9322b81"
+        "totalsaleQuantity": 12,
+        "productName": "Baguette",
+        "productID": "6758c8a6333cf916c9322b63"
     },
     {
-        "totalQuantity": 5,
-        "productName": "Frankenstein",
-        "productID": "6758c8a6333cf916c9322b7d"
-    },
-    {
-        "totalQuantity": 6,
+        "totalsaleQuantity": 6,
         "productName": "Samsung 4K Smart TV 55-inch",
         "productID": "6758c8a6333cf916c9322b95"
     },
     {
-        "totalQuantity": 16,
-        "productName": "Sparkling Water",
-        "productID": "6758c8a6333cf916c9322b66"
+        "totalsaleQuantity": 7,
+        "productName": "Dark Side of the Moon",
+        "productID": "6758c8a6333cf916c9322b81"
     },
     {
-        "totalQuantity": 7,
-        "productName": "OnePlus 11",
-        "productID": "6758c8a6333cf916c9322b8c"
+        "totalsaleQuantity": 5,
+        "productName": "Frankenstein",
+        "productID": "6758c8a6333cf916c9322b7d"
     },
     {
-        "totalQuantity": 16,
-        "productName": "Sony Xperia 1 IV",
-        "productID": "6758c8a6333cf916c9322b8e"
+        "totalsaleQuantity": 14,
+        "productName": "Pride and Prejudice",
+        "productID": "6758c8a6333cf916c9322b76"
     },
     {
-        "totalQuantity": 6,
-        "productName": "De'Longhi Espresso Machine",
-        "productID": "6758c8a6333cf916c9322b9c"
+        "totalsaleQuantity": 7,
+        "productName": "Nevermind",
+        "productID": "6758c8a6333cf916c9322b86"
     },
     {
-        "totalQuantity": 20,
-        "productName": "Whirlpool Double-Door Refrigerator",
-        "productID": "6758c8a6333cf916c9322b9a"
+        "totalsaleQuantity": 21,
+        "productName": "Bosch Dishwasher Series 4",
+        "productID": "6758c8a6333cf916c9322b96"
     },
     {
-        "totalQuantity": 6,
-        "productName": "Red Bell Peppers",
-        "productID": "6758c8a6333cf916c9322b74"
+        "totalsaleQuantity": 6,
+        "productName": "Born in the U.S.A.",
+        "productID": "6758c8a6333cf916c9322b84"
     },
     {
-        "totalQuantity": 6,
-        "productName": "Back in Black",
-        "productID": "6758c8a6333cf916c9322b82"
+        "totalsaleQuantity": 8,
+        "productName": "Animal Farm",
+        "productID": "6758c8a6333cf916c9322b7e"
     },
     {
-        "totalQuantity": 6,
-        "productName": "Huawei Mate 50 Pro",
-        "productID": "6758c8a6333cf916c9322b90"
+        "totalsaleQuantity": 11,
+        "productName": "Xiaomi 13 Pro",
+        "productID": "6758c8a6333cf916c9322b8d"
     },
     {
-        "totalQuantity": 5,
+        "totalsaleQuantity": 9,
+        "productName": "Oppo Find X5 Pro",
+        "productID": "6758c8a6333cf916c9322b8f"
+    },
+    {
+        "totalsaleQuantity": 11,
+        "productName": "The Hobbit",
+        "productID": "6758c8a6333cf916c9322b7b"
+    },
+    {
+        "totalsaleQuantity": 5,
+        "productName": "Moby-Dick",
+        "productID": "6758c8a6333cf916c9322b79"
+    },
+    {
+        "totalsaleQuantity": 11,
+        "productName": "The Catcher in the Rye",
+        "productID": "6758c8a6333cf916c9322b78"
+    },
+    {
+        "totalsaleQuantity": 15,
+        "productName": "Potatoes",
+        "productID": "6758c8a6333cf916c9322b72"
+    },
+    {
+        "totalsaleQuantity": 17,
+        "productName": "Dyson V12 Cordless Vacuum Cleaner",
+        "productID": "6758c8a6333cf916c9322b93"
+    },
+    {
+        "totalsaleQuantity": 11,
+        "productName": "The Wall",
+        "productID": "6758c8a6333cf916c9322b87"
+    },
+    {
+        "totalsaleQuantity": 7,
+        "productName": "1984",
+        "productID": "6758c8a6333cf916c9322b75"
+    },
+    {
+        "totalsaleQuantity": 1,
+        "productName": "iPhone 14 Pro",
+        "productID": "6758c8a6333cf916c9322b89"
+    },
+    {
+        "totalsaleQuantity": 5,
         "productName": "Avocado",
         "productID": "6758c8a6333cf916c9322b6e"
     },
     {
-        "totalQuantity": 4,
+        "totalsaleQuantity": 4,
         "productName": "Banana Loaf",
         "productID": "6758c8a6333cf916c9322b65"
     },
     {
-        "totalQuantity": 18,
-        "productName": "Orange Juice",
-        "productID": "6758c8a6333cf916c9322b6a"
+        "totalsaleQuantity": 6,
+        "productName": "Red Bell Peppers",
+        "productID": "6758c8a6333cf916c9322b74"
     },
     {
-        "totalQuantity": 18,
-        "productName": "Cheese Breadsticks",
-        "productID": "6758c8a6333cf916c9322b64"
+        "totalsaleQuantity": 6,
+        "productName": "Huawei Mate 50 Pro",
+        "productID": "6758c8a6333cf916c9322b90"
     },
     {
-        "totalQuantity": 5,
-        "productName": "Blueberries",
-        "productID": "6758c8a6333cf916c9322b6f"
+        "totalsaleQuantity": 6,
+        "productName": "Back in Black",
+        "productID": "6758c8a6333cf916c9322b82"
     },
     {
-        "totalQuantity": 14,
-        "productName": "Berry Smoothie",
-        "productID": "6758c8a6333cf916c9322b69"
+        "totalsaleQuantity": 16,
+        "productName": "Sony Xperia 1 IV",
+        "productID": "6758c8a6333cf916c9322b8e"
     },
     {
-        "totalQuantity": 3,
-        "productName": "Seedless Grapes",
-        "productID": "6758c8a6333cf916c9322b6d"
+        "totalsaleQuantity": 7,
+        "productName": "OnePlus 11",
+        "productID": "6758c8a6333cf916c9322b8c"
     },
     {
-        "totalQuantity": 5,
-        "productName": "Chocolate Croissant",
-        "productID": "6758c8a6333cf916c9322b61"
+        "totalsaleQuantity": 20,
+        "productName": "Whirlpool Double-Door Refrigerator",
+        "productID": "6758c8a6333cf916c9322b9a"
     },
     {
-        "totalQuantity": 5,
-        "productName": "Carrots",
-        "productID": "6758c8a6333cf916c9322b70"
+        "totalsaleQuantity": 6,
+        "productName": "De'Longhi Espresso Machine",
+        "productID": "6758c8a6333cf916c9322b9c"
     },
     {
-        "totalQuantity": 14,
-        "productName": "Led Zeppelin IV",
-        "productID": "6758c8a6333cf916c9322b88"
+        "totalsaleQuantity": 16,
+        "productName": "Sparkling Water",
+        "productID": "6758c8a6333cf916c9322b66"
     },
     {
-        "totalQuantity": 5,
-        "productName": "Realme GT 3",
-        "productID": "6758c8a6333cf916c9322b91"
+        "totalsaleQuantity": 25,
+        "productName": "Thriller",
+        "productID": "6758c8a6333cf916c9322b80"
     },
     {
-        "totalQuantity": 13,
+        "totalsaleQuantity": 6,
+        "productName": "Cold Brew Coffee",
+        "productID": "6758c8a6333cf916c9322b67"
+    },
+    {
+        "totalsaleQuantity": 13,
         "productName": "Abbey Road",
         "productID": "6758c8a6333cf916c9322b7f"
     },
     {
-        "totalQuantity": 14,
-        "productName": "Google Pixel 7 Pro",
-        "productID": "6758c8a6333cf916c9322b8b"
+        "totalsaleQuantity": 5,
+        "productName": "Realme GT 3",
+        "productID": "6758c8a6333cf916c9322b91"
     },
     {
-        "totalQuantity": 11,
+        "totalsaleQuantity": 11,
         "productName": "Organic Green Tea",
         "productID": "6758c8a6333cf916c9322b68"
     },
     {
-        "totalQuantity": 3,
+        "totalsaleQuantity": 14,
+        "productName": "Google Pixel 7 Pro",
+        "productID": "6758c8a6333cf916c9322b8b"
+    },
+    {
+        "totalsaleQuantity": 3,
         "productName": "The Lord of the Rings: The Fellowship of the Ring",
         "productID": "6758c8a6333cf916c9322b7a"
     },
     {
-        "totalQuantity": 11,
+        "totalsaleQuantity": 11,
         "productName": "Broccoli",
         "productID": "6758c8a6333cf916c9322b73"
     },
     {
-        "totalQuantity": 25,
-        "productName": "Thriller",
-        "productID": "6758c8a6333cf916c9322b80"
+        "totalsaleQuantity": 3,
+        "productName": "Seedless Grapes",
+        "productID": "6758c8a6333cf916c9322b6d"
+    },
+    {
+        "totalsaleQuantity": 14,
+        "productName": "Berry Smoothie",
+        "productID": "6758c8a6333cf916c9322b69"
+    },
+    {
+        "totalsaleQuantity": 5,
+        "productName": "Carrots",
+        "productID": "6758c8a6333cf916c9322b70"
+    },
+    {
+        "totalsaleQuantity": 14,
+        "productName": "Led Zeppelin IV",
+        "productID": "6758c8a6333cf916c9322b88"
+    },
+    {
+        "totalsaleQuantity": 5,
+        "productName": "Chocolate Croissant",
+        "productID": "6758c8a6333cf916c9322b61"
+    },
+    {
+        "totalsaleQuantity": 5,
+        "productName": "Blueberries",
+        "productID": "6758c8a6333cf916c9322b6f"
+    },
+    {
+        "totalsaleQuantity": 18,
+        "productName": "Cheese Breadsticks",
+        "productID": "6758c8a6333cf916c9322b64"
+    },
+    {
+        "totalsaleQuantity": 18,
+        "productName": "Orange Juice",
+        "productID": "6758c8a6333cf916c9322b6a"
     }
 ]
