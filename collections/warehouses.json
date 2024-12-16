@@ -4,13 +4,13 @@
     "warehouseName": "Dale Street Warehouse",
     "warehouseLocation": "Dale Street, Northern Quarter, Manchester, UK",
     "warehouseLatitude": 53.4814,
-	  "warehouseLongitude": -2.2328
+    "warehouseLongitude": -2.2328
   },
   {
     "_id": "67589d831814df7d9eb60c9b",
     "warehouseName": "Fresh Products Warehouse",
     "warehouseLocation": "123 Deansgate, Manchester, UK",
     "warehouseLatitude": 53.4788,
-	  "warehouseLongitude": -2.2491
+    "warehouseLongitude": -2.2491
   }
 ]
