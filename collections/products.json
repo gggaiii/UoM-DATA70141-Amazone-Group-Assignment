@@ -1,0 +1,302 @@
+[
+    {
+        "_id": "6758c8a6333cf916c9322b61",
+        "productType": "Fresh",
+        "averageRating": 3.67
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b62",
+        "productType": "Fresh",
+        "averageRating": 2.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b63",
+        "productType": "Fresh",
+        "averageRating": 1.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b64",
+        "productType": "Fresh",
+        "averageRating": 3.33
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b65",
+        "productType": "Fresh",
+        "averageRating": 2.67
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b66",
+        "productType": "Fresh",
+        "averageRating": 4.33
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b67",
+        "productType": "Fresh",
+        "averageRating": 3.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b68",
+        "productType": "Fresh",
+        "averageRating": 2.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b69",
+        "productType": "Fresh",
+        "averageRating": 2.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b6a",
+        "productType": "Fresh",
+        "averageRating": 2.25
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b6b",
+        "productType": "Fresh",
+        "averageRating": 3.4
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b6c",
+        "productType": "Fresh",
+        "averageRating": 3.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b6d",
+        "productType": "Fresh",
+        "averageRating": 2.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b6e",
+        "productType": "Fresh",
+        "averageRating": 3.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b6f",
+        "productType": "Fresh",
+        "averageRating": 1.67
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b70",
+        "productType": "Fresh",
+        "averageRating": 3.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b71",
+        "productType": "Fresh",
+        "averageRating": 4.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b72",
+        "productType": "Fresh",
+        "averageRating": 2.33
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b73",
+        "productType": "Fresh",
+        "averageRating": 1.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b74",
+        "productType": "Fresh",
+        "averageRating": 3.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b75",
+        "productType": "Other",
+        "averageRating": 4.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b76",
+        "productType": "Other",
+        "averageRating": 4.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b77",
+        "productType": "Other",
+        "averageRating": 2.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b78",
+        "productType": "Other",
+        "averageRating": 2.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b79",
+        "productType": "Other",
+        "averageRating": 2.67
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b7a",
+        "productType": "Other",
+        "averageRating": 4.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b7b",
+        "productType": "Other",
+        "averageRating": 3.6
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b7c",
+        "productType": "Other",
+        "averageRating": 2.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b7d",
+        "productType": "Other",
+        "averageRating": 2.67
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b7e",
+        "productType": "Other",
+        "averageRating": 4.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b7f",
+        "productType": "Other",
+        "averageRating": 3.33
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b80",
+        "productType": "Other",
+        "averageRating": 2.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b81",
+        "productType": "Other",
+        "averageRating": 2.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b82",
+        "productType": "Other",
+        "averageRating": 2.75
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b83",
+        "productType": "Other",
+        "averageRating": 4.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b84",
+        "productType": "Other",
+        "averageRating": 4.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b85",
+        "productType": "Other",
+        "averageRating": 3.33
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b86",
+        "productType": "Other",
+        "averageRating": 2.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b87",
+        "productType": "Other",
+        "averageRating": 2.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b88",
+        "productType": "Other",
+        "averageRating": 2.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b89",
+        "productType": "Other",
+        "averageRating": 3.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b8a",
+        "productType": "Other",
+        "averageRating": 4.33
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b8b",
+        "productType": "Other",
+        "averageRating": 3.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b8c",
+        "productType": "Other",
+        "averageRating": 5.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b8d",
+        "productType": "Other",
+        "averageRating": 4.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b8e",
+        "productType": "Other",
+        "averageRating": 2.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b8f",
+        "productType": "Other",
+        "averageRating": 3.33
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b90",
+        "productType": "Other",
+        "averageRating": 3.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b91",
+        "productType": "Other",
+        "averageRating": 2.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b92",
+        "productType": "Other",
+        "averageRating": 2.4
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b93",
+        "productType": "Other",
+        "averageRating": 2.8
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b94",
+        "productType": "Other",
+        "averageRating": 3.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b95",
+        "productType": "Other",
+        "averageRating": 1.67
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b96",
+        "productType": "Other",
+        "averageRating": 5.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b97",
+        "productType": "Other",
+        "averageRating": 3.2
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b98",
+        "productType": "Other",
+        "averageRating": 1.75
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b99",
+        "productType": "Other",
+        "averageRating": 4.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b9a",
+        "productType": "Other",
+        "averageRating": 4.0
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b9b",
+        "productType": "Other",
+        "averageRating": 4.5
+    },
+    {
+        "_id": "6758c8a6333cf916c9322b9c",
+        "productType": "Other",
+        "averageRating": 4.5
+    }
+]

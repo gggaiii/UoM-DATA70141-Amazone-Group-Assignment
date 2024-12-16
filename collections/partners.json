@@ -1,0 +1,407 @@
+[
+    {
+        "_id": "6759b93457119e3dcc6cfb37",
+        "driverName": "Cristiano Ronaldo",
+        "age": 35,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 12,
+            "streetName": "Elm Street",
+            "city": "Manchester",
+            "postcode": "M1 1AB"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": true,
+            "pickedOrderID": "6759dd6ecbe1fc1a3c2d27da",
+            "ETA": 2.2
+        },
+        "location": {
+            "latitude": 53.482,
+            "longitude": -2.2445
+        },
+        "statistics": {
+            "averageRating": 4.8,
+            "totalDeliveries": 1200,
+            "earnings": 45000.5
+        }
+    },
+    {
+        "_id": "6759b93457119e3dcc6cfb38",
+        "driverName": "Lionel Messi",
+        "age": 29,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 34,
+            "streetName": "Maple Avenue",
+            "city": "Manchester",
+            "postcode": "M1 6AN"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": true,
+            "pickedOrderID": "6759dd6ecbe1fc1a3c2d27dc",
+            "ETA": 8.55
+        },
+        "location": {
+            "latitude": 53.4775,
+            "longitude": -2.2429
+        },
+        "statistics": {
+            "averageRating": 4.5,
+            "totalDeliveries": 950,
+            "earnings": 37000.75
+        }
+    },
+    {
+        "_id": "6759b93457119e3dcc6cfb39",
+        "driverName": "Erik ten Hag",
+        "age": 42,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 56,
+            "streetName": "High Street",
+            "city": "Manchester",
+            "postcode": "M2 3AA"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": true,
+            "pickedOrderID": "6759dd6ecbe1fc1a3c2d27de",
+            "ETA": 13.93
+        },
+        "location": {
+            "latitude": 53.4842,
+            "longitude": -2.2378
+        },
+        "statistics": {
+            "averageRating": 4.7,
+            "totalDeliveries": 1500,
+            "earnings": 52000.0
+        }
+    },
+    {
+        "_id": "6759b93457119e3dcc6cfb3a",
+        "driverName": "Antony",
+        "age": 31,
+        "gender": "Female",
+        "driverAddress": {
+            "houseNumber": 78,
+            "streetName": "Oak Lane",
+            "city": "Manchester",
+            "postcode": "M1 4DL"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": true,
+            "pickedOrderID": "6759dd6ecbe1fc1a3c2d27e0",
+            "ETA": 10.6
+        },
+        "location": {
+            "latitude": 53.4768,
+            "longitude": -2.2395
+        },
+        "statistics": {
+            "averageRating": 4.9,
+            "totalDeliveries": 800,
+            "earnings": 32000.25
+        }
+    },
+    {
+        "_id": "6759b93457119e3dcc6cfb3b",
+        "driverName": "Kylian Mbappe",
+        "age": 27,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 91,
+            "streetName": "Pine Drive",
+            "city": "Manchester",
+            "postcode": "M1 1AA"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": true,
+            "pickedOrderID": "6759dd6ecbe1fc1a3c2d27e2",
+            "ETA": 1.91
+        },
+        "location": {
+            "latitude": 53.4812,
+            "longitude": -2.248
+        },
+        "statistics": {
+            "averageRating": 4.6,
+            "totalDeliveries": 500,
+            "earnings": 25000.0
+        }
+    },
+    {
+        "_id": "675cc341b92053bcd8039867",
+        "driverName": "De Gea",
+        "age": 41,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 42,
+            "streetName": "Rosewood Avenue",
+            "city": "Manchester",
+            "postcode": "M1 2XY"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": true,
+            "pickedOrderID": null,
+            "ETA": null
+        },
+        "location": {
+            "latitude": 53.476375,
+            "longitude": -2.217768
+        },
+        "statistics": {
+            "averageRating": 4.4,
+            "totalDeliveries": 956,
+            "earnings": 49403.58
+        }
+    },
+    {
+        "_id": "675cc341b92053bcd8039868",
+        "driverName": "Zlatan Ibrahimovic",
+        "age": 33,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 16,
+            "streetName": "Oakwood Lane",
+            "city": "Manchester",
+            "postcode": "M1 3YZ"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": true,
+            "pickedOrderID": null,
+            "ETA": null
+        },
+        "location": {
+            "latitude": 53.463945,
+            "longitude": -2.217621
+        },
+        "statistics": {
+            "averageRating": 4.3,
+            "totalDeliveries": 1443,
+            "earnings": 30413.03
+        }
+    },
+    {
+        "_id": "675cc341b92053bcd8039869",
+        "driverName": "Shea Given",
+        "age": 26,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 56,
+            "streetName": "Birch Road",
+            "city": "Manchester",
+            "postcode": "M1 4WX"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": false,
+            "pickedOrderID": null,
+            "ETA": null
+        },
+        "location": {
+            "latitude": 53.486004,
+            "longitude": -2.236796
+        },
+        "statistics": {
+            "averageRating": 4.9,
+            "totalDeliveries": 931,
+            "earnings": 44268.54
+        }
+    },
+    {
+        "_id": "675cc341b92053bcd803986a",
+        "driverName": "Joe Hart",
+        "age": 43,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 53,
+            "streetName": "Willow Crescent",
+            "city": "Manchester",
+            "postcode": "M1 5PQ"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": true,
+            "pickedOrderID": null,
+            "ETA": null
+        },
+        "location": {
+            "latitude": 53.489605,
+            "longitude": -2.216229
+        },
+        "statistics": {
+            "averageRating": 4.5,
+            "totalDeliveries": 1154,
+            "earnings": 43056.28
+        }
+    },
+    {
+        "_id": "675cc341b92053bcd803986b",
+        "driverName": "Paul Pogba",
+        "age": 26,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 40,
+            "streetName": "Maple Way",
+            "city": "Manchester",
+            "postcode": "M1 6RS"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": true,
+            "pickedOrderID": null,
+            "ETA": null
+        },
+        "location": {
+            "latitude": 53.474849,
+            "longitude": -2.215494
+        },
+        "statistics": {
+            "averageRating": 4.5,
+            "totalDeliveries": 688,
+            "earnings": 39728.52
+        }
+    },
+    {
+        "_id": "675cc341b92053bcd803986c",
+        "driverName": "Marcus Rashford",
+        "age": 26,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 32,
+            "streetName": "Cedar Drive",
+            "city": "Manchester",
+            "postcode": "M1 7TU"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": true,
+            "pickedOrderID": null,
+            "ETA": null
+        },
+        "location": {
+            "latitude": 53.47391,
+            "longitude": -2.223946
+        },
+        "statistics": {
+            "averageRating": 4.4,
+            "totalDeliveries": 1305,
+            "earnings": 49420.64
+        }
+    },
+    {
+        "_id": "675cc341b92053bcd803986d",
+        "driverName": "David Silva",
+        "age": 36,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 71,
+            "streetName": "Pine Street",
+            "city": "Manchester",
+            "postcode": "M1 8VW"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": false,
+            "pickedOrderID": null,
+            "ETA": null
+        },
+        "location": {
+            "latitude": 53.486675,
+            "longitude": -2.227687
+        },
+        "statistics": {
+            "averageRating": 4.9,
+            "totalDeliveries": 1185,
+            "earnings": 48294.37
+        }
+    },
+    {
+        "_id": "675cc341b92053bcd803986e",
+        "driverName": "Erling Haaland",
+        "age": 32,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 73,
+            "streetName": "Ash Street",
+            "city": "Manchester",
+            "postcode": "M1 9YZ"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": true,
+            "pickedOrderID": null,
+            "ETA": null
+        },
+        "location": {
+            "latitude": 53.476601,
+            "longitude": -2.230741
+        },
+        "statistics": {
+            "averageRating": 4.8,
+            "totalDeliveries": 719,
+            "earnings": 34247.54
+        }
+    },
+    {
+        "_id": "675cc341b92053bcd803986f",
+        "driverName": "Raheem Sterling",
+        "age": 30,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 1,
+            "streetName": "Chestnut Close",
+            "city": "Manchester",
+            "postcode": "M1 0XY"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": false,
+            "pickedOrderID": null,
+            "ETA": null
+        },
+        "location": {
+            "latitude": 53.479149,
+            "longitude": -2.229768
+        },
+        "statistics": {
+            "averageRating": 4.4,
+            "totalDeliveries": 811,
+            "earnings": 40806.1
+        }
+    },
+    {
+        "_id": "675cc341b92053bcd8039870",
+        "driverName": "Virgil van Dijk",
+        "age": 28,
+        "gender": "Male",
+        "driverAddress": {
+            "houseNumber": 81,
+            "streetName": "Poplar Lane",
+            "city": "Manchester",
+            "postcode": "M1 1JK"
+        },
+        "driverStatus": {
+            "isActive": true,
+            "onRoute": true,
+            "pickedOrderID": null,
+            "ETA": null
+        },
+        "location": {
+            "latitude": 53.462076,
+            "longitude": -2.233984
+        },
+        "statistics": {
+            "averageRating": 4.3,
+            "totalDeliveries": 1009,
+            "earnings": 37791.03
+        }
+    }
+]

@@ -1,0 +1,1062 @@
+[
+    {
+        "_id": "6759d559b156995774e8b89a",
+        "name": "John Doe",
+        "gender": "Male",
+        "age": "30",
+        "balance": "2400",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97a9",
+            "billingAddressID": "6759d28aaf1004dc18de97a9"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27da",
+                "totalcost": 2,
+                "deliveryPartnerID": "6759b93457119e3dcc6cfb37",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b61",
+                        "productType": "Fresh",
+                        "productName": "Chocolate Croissant",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-28T00:00:00Z"
+            },
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27db",
+                "totalcost": 12,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b75",
+                        "productType": "Other",
+                        "productName": "1984",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-29T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "Chocolate Croissant",
+                "averageRating": 3.67,
+                "productID": "6758c8a6333cf916c9322b61"
+            },
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b89b",
+        "name": "Kim Jane",
+        "gender": "Female",
+        "age": "29",
+        "balance": "2500",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97aa",
+            "billingAddressID": "6759d28aaf1004dc18de97aa"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27dc",
+                "totalcost": 3,
+                "deliveryPartnerID": "6759b93457119e3dcc6cfb38",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b62",
+                        "productType": "Fresh",
+                        "productName": "Almond Danish",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-28T00:00:00Z"
+            },
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27dd",
+                "totalcost": 9,
+                "deliveryPartneID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b76",
+                        "productType": "Other",
+                        "productName": "Pride and Prejudice",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-29T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "Chocolate Croissant",
+                "averageRating": 3.67,
+                "productID": "6758c8a6333cf916c9322b61"
+            },
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b89c",
+        "name": "Kendrick Lamar",
+        "gender": "Male",
+        "age": "25",
+        "balance": "2000",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97ab",
+            "billingAddressID": "6759d28aaf1004dc18de97ab"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27de",
+                "totalcost": 2,
+                "deliveryPartnerID": "6759b93457119e3dcc6cfb39",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b63",
+                        "productType": "Fresh",
+                        "productName": "Baguette",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-28T00:00:00Z"
+            },
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27df",
+                "totalcost": 11,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b77",
+                        "productType": "Other",
+                        "productName": "To Kill a Mockingbird",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-29T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "Chocolate Croissant",
+                "averageRating": 3.67,
+                "productID": "6758c8a6333cf916c9322b61"
+            },
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b89d",
+        "name": "Taylor Swift",
+        "gender": "Female",
+        "age": "30",
+        "balance": "1900",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97ac",
+            "billingAddressID": "6759d28aaf1004dc18de97ac"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27e0",
+                "totalcost": 2,
+                "deliveryPartnerID": "6759b93457119e3dcc6cfb3a",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b64",
+                        "productType": "Fresh",
+                        "productName": "Cheese Breadsticks",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-28T00:00:00Z"
+            },
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27e1",
+                "totalcost": 18,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b80",
+                        "productType": "Other",
+                        "productName": "Thriller",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-29T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "Chocolate Croissant",
+                "averageRating": 3.67,
+                "productID": "6758c8a6333cf916c9322b61"
+            },
+            {
+                "productName": "Abbey Road",
+                "averageRating": 3.33,
+                "productID": "6758c8a6333cf916c9322b7f"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b89e",
+        "name": "David Beckham",
+        "gender": "Mae",
+        "age": "40",
+        "balance": "3000",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97ad",
+            "billingAddressID": "6759d28aaf1004dc18de97ad"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27e2",
+                "totalcost": 2,
+                "deliveryPartnerID": "6759b93457119e3dcc6cfb3b",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b68",
+                        "productType": "Fresh",
+                        "productName": "Organic Green Tea",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-28T00:00:00Z"
+            },
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27e3",
+                "totalcost": 18,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b86",
+                        "productType": "Other",
+                        "productName": "Nevermind",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-29T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "Sparkling Water",
+                "averageRating": 4.33,
+                "productID": "6758c8a6333cf916c9322b66"
+            },
+            {
+                "productName": "Abbey Road",
+                "averageRating": 3.33,
+                "productID": "6758c8a6333cf916c9322b7f"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b89f",
+        "name": "Alice Johnson",
+        "gender": "Female",
+        "age": "28",
+        "balance": "2200",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97ae",
+            "billingAddressID": "6759d28aaf1004dc18de97ae"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27e4",
+                "totalcost": 12,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b75",
+                        "productType": "Other",
+                        "productName": "1984",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba06877",
+                "totalcost": 350,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b94",
+                        "productType": "Other",
+                        "productName": "Philips Airfryer XXL",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            },
+            {
+                "productName": "Philips Airfryer XXL",
+                "averageRating": 3.0,
+                "productID": "6758c8a6333cf916c9322b94"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8a0",
+        "name": "Bob Smith",
+        "gender": "Male",
+        "age": "35",
+        "balance": "1800",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97af",
+            "billingAddressID": "6759d28aaf1004dc18de97af"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27e5",
+                "totalcost": 9,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b76",
+                        "productType": "Other",
+                        "productName": "Pride and Prejudice",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba06878",
+                "totalcost": 950,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b97",
+                        "productType": "Other",
+                        "productName": "LG Front Load Washing Machine",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            },
+            {
+                "productName": "Bosch Dishwasher Series 4",
+                "averageRating": 5.0,
+                "productID": "6758c8a6333cf916c9322b96"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8a1",
+        "name": "Charlie Brown",
+        "gender": "Male",
+        "age": "32",
+        "balance": "2500",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97b0",
+            "billingAddressID": "6759d28aaf1004dc18de97b0"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27e6",
+                "totalcost": 11,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b77",
+                        "productType": "Other",
+                        "productName": "To Kill a Mockingbird",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba06879",
+                "totalcost": 17,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b84",
+                        "productType": "Other",
+                        "productName": "Born in the U.S.A.",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            },
+            {
+                "productName": "Rumours",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b83"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8a2",
+        "name": "Diana Prince",
+        "gender": "Female",
+        "age": "27",
+        "balance": "2700",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97b1",
+            "billingAddressID": "6759d28aaf1004dc18de97b1"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27e7",
+                "totalcost": 10,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b78",
+                        "productType": "Other",
+                        "productName": "The Catcher in the Rye",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba0687a",
+                "totalcost": 8,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b7e",
+                        "productType": "Other",
+                        "productName": "Animal Farm",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            },
+            {
+                "productName": "Animal Farm",
+                "averageRating": 4.5,
+                "productID": "6758c8a6333cf916c9322b7e"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8a3",
+        "name": "Ethan Hunt",
+        "gender": "Male",
+        "age": "40",
+        "balance": "3000",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97b2",
+            "billingAddressID": "6759d28aaf1004dc18de97b2"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27e8",
+                "totalcost": 13,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b79",
+                        "productType": "Other",
+                        "productName": "Moby-Dick",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba0687b",
+                "totalcost": 9,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b7d",
+                        "productType": "Other",
+                        "productName": "Frankenstein",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            },
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8a4",
+        "name": "Fiona Gallagher",
+        "gender": "Female",
+        "age": "29",
+        "balance": "2100",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97b3",
+            "billingAddressID": "6759d28aaf1004dc18de97b3"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27e9",
+                "totalcost": 15,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b7a",
+                        "productType": "Other",
+                        "productName": "The Lord of the Rings: The Fellowship of the Ring",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba0687c",
+                "totalcost": 800,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b96",
+                        "productType": "Other",
+                        "productName": "Bosch Dishwasher Series 4",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            },
+            {
+                "productName": "Bosch Dishwasher Series 4",
+                "averageRating": 5.0,
+                "productID": "6758c8a6333cf916c9322b96"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8a5",
+        "name": "George Martin",
+        "gender": "Male",
+        "age": "45",
+        "balance": "3200",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97b4",
+            "billingAddressID": "6759d28aaf1004dc18de97b4"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27ea",
+                "totalcost": 14,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b7b",
+                        "productType": "Other",
+                        "productName": "The Hobbit",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba0687d",
+                "totalcost": 13,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b79",
+                        "productType": "Other",
+                        "productName": "Moby-Dick",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            },
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8a6",
+        "name": "Hannah Baker",
+        "gender": "Female",
+        "age": "22",
+        "balance": "1900",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97b5",
+            "billingAddressID": "6759d28aaf1004dc18de97b5"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27eb",
+                "totalcost": 10,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b7c",
+                        "productType": "Other",
+                        "productName": "Brave New World",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba0687e",
+                "totalcost": 15,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b7f",
+                        "productType": "Other",
+                        "productName": "Abbey Road",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            },
+            {
+                "productName": "Abbey Road",
+                "averageRating": 3.33,
+                "productID": "6758c8a6333cf916c9322b7f"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8a7",
+        "name": "Ian Somerhalder",
+        "gender": "Male",
+        "age": "38",
+        "balance": "2800",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97b6",
+            "billingAddressID": "6759d28aaf1004dc18de97b6"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27ec",
+                "totalcost": 9,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b7d",
+                        "productType": "Other",
+                        "productName": "Frankenstein",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba0687f",
+                "totalcost": 650,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b93",
+                        "productType": "Other",
+                        "productName": "Dyson V12 Cordless Vacuum Cleaner",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "1984",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b75"
+            },
+            {
+                "productName": "Dyson V12 Cordless Vacuum Cleaner",
+                "averageRating": 2.8,
+                "productID": "6758c8a6333cf916c9322b93"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8a8",
+        "name": "Jessica Jones",
+        "gender": "Female",
+        "age": "31",
+        "balance": "2300",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97b7",
+            "billingAddressID": "6759d28aaf1004dc18de97b7"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27ed",
+                "totalcost": 8,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b7e",
+                        "productType": "Other",
+                        "productName": "Animal Farm",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba06880",
+                "totalcost": 17,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b84",
+                        "productType": "Other",
+                        "productName": "Born in the U.S.A.",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "Animal Farm",
+                "averageRating": 4.5,
+                "productID": "6758c8a6333cf916c9322b7e"
+            },
+            {
+                "productName": "Rumours",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b83"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8a9",
+        "name": "Kevin Hart",
+        "gender": "Male",
+        "age": "42",
+        "balance": "2900",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97b8",
+            "billingAddressID": "6759d28aaf1004dc18de97b8"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27ee",
+                "totalcost": 15,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b7f",
+                        "productType": "Other",
+                        "productName": "Abbey Road",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba06881",
+                "totalcost": 950,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b97",
+                        "productType": "Other",
+                        "productName": "LG Front Load Washing Machine",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "Abbey Road",
+                "averageRating": 3.33,
+                "productID": "6758c8a6333cf916c9322b7f"
+            },
+            {
+                "productName": "Bosch Dishwasher Series 4",
+                "averageRating": 5.0,
+                "productID": "6758c8a6333cf916c9322b96"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8aa",
+        "name": "Liam Neeson",
+        "gender": "Male",
+        "age": "60",
+        "balance": "3500",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97b9",
+            "billingAddressID": "6759d28aaf1004dc18de97b9"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27ef",
+                "totalcost": 18,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b80",
+                        "productType": "Other",
+                        "productName": "Thriller",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba06882",
+                "totalcost": 950,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b8f",
+                        "productType": "Other",
+                        "productName": "Oppo Find X5 Pro",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "Abbey Road",
+                "averageRating": 3.33,
+                "productID": "6758c8a6333cf916c9322b7f"
+            },
+            {
+                "productName": "iPhone 14 Pro",
+                "averageRating": 3.5,
+                "productID": "6758c8a6333cf916c9322b89"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8ab",
+        "name": "Megan Fox",
+        "gender": "Female",
+        "age": "34",
+        "balance": "2600",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97ba",
+            "billingAddressID": "6759d28aaf1004dc18de97ba"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27f0",
+                "totalcost": 20,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b81",
+                        "productType": "Other",
+                        "productName": "Dark Side of the Moon",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba06883",
+                "totalcost": 16,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b83",
+                        "productType": "Other",
+                        "productName": "Rumours",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "Abbey Road",
+                "averageRating": 3.33,
+                "productID": "6758c8a6333cf916c9322b7f"
+            },
+            {
+                "productName": "Rumours",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b83"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8ac",
+        "name": "Nathan Drake",
+        "gender": "Male",
+        "age": "29",
+        "balance": "2400",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97bb",
+            "billingAddressID": "6759d28aaf1004dc18de97bb"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27f1",
+                "totalcost": 14,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b82",
+                        "productType": "Other",
+                        "productName": "Back in Black",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba06884",
+                "totalcost": 950,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b97",
+                        "productType": "Other",
+                        "productName": "LG Front Load Washing Machine",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "Abbey Road",
+                "averageRating": 3.33,
+                "productID": "6758c8a6333cf916c9322b7f"
+            },
+            {
+                "productName": "Bosch Dishwasher Series 4",
+                "averageRating": 5.0,
+                "productID": "6758c8a6333cf916c9322b96"
+            }
+        ]
+    },
+    {
+        "_id": "6759d559b156995774e8b8ad",
+        "name": "Olivia Wilde",
+        "gender": "Female",
+        "age": "37",
+        "balance": "2700",
+        "addresstype": {
+            "shippingAddressID": "6759d28aaf1004dc18de97bc",
+            "billingAddressID": "6759d28aaf1004dc18de97bc"
+        },
+        "currentOrders": [
+            {
+                "orderID": "6759dd6ecbe1fc1a3c2d27f2",
+                "totalcost": 16,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b83",
+                        "productType": "Other",
+                        "productName": "Rumours",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            },
+            {
+                "orderID": "675a3e9074a9a2409ba06885",
+                "totalcost": 14,
+                "deliveryPartnerID": "",
+                "products": [
+                    {
+                        "productID": "6758c8a6333cf916c9322b82",
+                        "productType": "Other",
+                        "productName": "Back in Black",
+                        "quantityBought": 1
+                    }
+                ],
+                "orderDate": "2024-12-30T00:00:00Z"
+            }
+        ],
+        "recommendedProducts": [
+            {
+                "productName": "Rumours",
+                "averageRating": 4.0,
+                "productID": "6758c8a6333cf916c9322b83"
+            },
+            {
+                "productName": "Abbey Road",
+                "averageRating": 3.33,
+                "productID": "6758c8a6333cf916c9322b7f"
+            }
+        ]
+    }
+]
