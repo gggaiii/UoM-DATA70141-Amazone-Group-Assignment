@@ -1,0 +1,74 @@
+[
+    {
+        "month": "2020-07-01",
+        "totalSales": 2539
+    },
+    {
+        "month": "2020-08-01",
+        "totalSales": 0
+    },
+    {
+        "month": "2020-09-01",
+        "totalSales": 6376
+    },
+    {
+        "month": "2020-10-01",
+        "totalSales": 8227.4
+    },
+    {
+        "month": "2020-11-01",
+        "totalSales": 3335
+    },
+    {
+        "month": "2020-12-01",
+        "totalSales": 765
+    },
+    {
+        "month": "2021-01-01",
+        "totalSales": 8311.8
+    },
+    {
+        "month": "2021-02-01",
+        "totalSales": 0
+    },
+    {
+        "month": "2021-03-01",
+        "totalSales": 0
+    },
+    {
+        "month": "2021-04-01",
+        "totalSales": 9908
+    },
+    {
+        "month": "2021-05-01",
+        "totalSales": 600
+    },
+    {
+        "month": "2021-06-01",
+        "totalSales": 1286
+    },
+    {
+        "month": "2021-07-01",
+        "totalSales": 3209.1
+    },
+    {
+        "month": "2021-08-01",
+        "totalSales": 370
+    },
+    {
+        "month": "2021-09-01",
+        "totalSales": 0
+    },
+    {
+        "month": "2021-10-01",
+        "totalSales": 4392.6
+    },
+    {
+        "month": "2021-11-01",
+        "totalSales": 9106.4
+    },
+    {
+        "month": "2021-12-01",
+        "totalSales": 9266.4
+    }
+]
