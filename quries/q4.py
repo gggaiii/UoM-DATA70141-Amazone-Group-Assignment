@@ -27,7 +27,7 @@ def save_to_json(data, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(convert_objectid(data), f, ensure_ascii=False, indent=4)
 
-def calculate_sales_and_inventory(collection_past_order_items, collection_store, collection_products):
+def calculate_sales_and_inventory(collection_past_order_items):
     pipeline = [
         {
             '$unwind': {
@@ -140,7 +140,7 @@ def main():
     collection_store = db['stores']
 
     # Calculate the sales volume and inventory of each product
-    sales_and_inventory = calculate_sales_and_inventory(collection_past_order_items, collection_store)
+    sales_and_inventory = calculate_sales_and_inventory(collection_past_order_items)
     print("Sales and Inventory:", sales_and_inventory)
 
     # store the data in a json file
