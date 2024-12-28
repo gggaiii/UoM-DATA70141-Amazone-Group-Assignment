@@ -1,23 +1,23 @@
 [
     {
         "month": "2020-01-01",
-        "totalSales": 4008
+        "totalSales": 4568.8
     },
     {
         "month": "2020-02-01",
-        "totalSales": 7030
+        "totalSales": 102.6
     },
     {
         "month": "2020-03-01",
-        "totalSales": 4037
+        "totalSales": 92.8
     },
     {
         "month": "2020-04-01",
-        "totalSales": 5035
+        "totalSales": 3335.2
     },
     {
         "month": "2020-05-01",
-        "totalSales": 1144
+        "totalSales": 2712.4
     },
     {
         "month": "2020-06-01",
@@ -25,7 +25,7 @@
     },
     {
         "month": "2020-07-01",
-        "totalSales": 1683.6
+        "totalSales": 2539
     },
     {
         "month": "2020-08-01",
@@ -33,23 +33,23 @@
     },
     {
         "month": "2020-09-01",
-        "totalSales": 56.8
+        "totalSales": 6376
     },
     {
         "month": "2020-10-01",
-        "totalSales": 1916
+        "totalSales": 8227.4
     },
     {
         "month": "2020-11-01",
-        "totalSales": 4262
+        "totalSales": 3335
     },
     {
         "month": "2020-12-01",
-        "totalSales": 1537.2
+        "totalSales": 765
     },
     {
         "month": "2021-01-01",
-        "totalSales": 3448.8
+        "totalSales": 8311.8
     },
     {
         "month": "2021-02-01",
@@ -61,23 +61,23 @@
     },
     {
         "month": "2021-04-01",
-        "totalSales": 5610
+        "totalSales": 9908
     },
     {
         "month": "2021-05-01",
-        "totalSales": 1618
+        "totalSales": 600
     },
     {
         "month": "2021-06-01",
-        "totalSales": 863.2
+        "totalSales": 1286
     },
     {
         "month": "2021-07-01",
-        "totalSales": 6
+        "totalSales": 3209.1
     },
     {
         "month": "2021-08-01",
-        "totalSales": 1801.2
+        "totalSales": 370
     },
     {
         "month": "2021-09-01",
@@ -85,71 +85,71 @@
     },
     {
         "month": "2021-10-01",
-        "totalSales": 1378.1
+        "totalSales": 4392.6
     },
     {
         "month": "2021-11-01",
-        "totalSales": 8293.2
+        "totalSales": 9106.4
     },
     {
         "month": "2021-12-01",
-        "totalSales": 11899.5
+        "totalSales": 9266.4
     },
     {
         "month": "2022-01-01",
-        "totalSales": 2360
+        "totalSales": 9.8
     },
     {
         "month": "2022-02-01",
-        "totalSales": 1546.0
+        "totalSales": 1630
     },
     {
         "month": "2022-03-01",
-        "totalSales": 6807.0
+        "totalSales": 5187.4
     },
     {
         "month": "2022-04-01",
-        "totalSales": 459.6
+        "totalSales": 68.2
     },
     {
         "month": "2022-05-01",
-        "totalSales": 7808.8
+        "totalSales": 9994
     },
     {
         "month": "2022-06-01",
-        "totalSales": 45
+        "totalSales": 5204
     },
     {
         "month": "2022-07-01",
-        "totalSales": 2633.2000000000003
+        "totalSales": 7072
     },
     {
         "month": "2022-08-01",
-        "totalSales": 4408.4
+        "totalSales": 7512
     },
     {
         "month": "2022-09-01",
-        "totalSales": 4962.7
+        "totalSales": 2680
     },
     {
         "month": "2022-10-01",
-        "totalSales": 3652
+        "totalSales": 3482
     },
     {
         "month": "2022-11-01",
-        "totalSales": 61.8
+        "totalSales": 87.8
     },
     {
         "month": "2022-12-01",
-        "totalSales": 318.2
+        "totalSales": 1884.5
     },
     {
         "month": "2023-01-01",
-        "totalSales": 7883.5
+        "totalSales": 5320.3
     },
     {
         "month": "2023-02-01",
-        "totalSales": 3800
+        "totalSales": 1969.2
     },
     {
         "month": "2023-03-01",
@@ -161,7 +161,7 @@
     },
     {
         "month": "2023-05-01",
-        "totalSales": 1376
+        "totalSales": 2658
     },
     {
         "month": "2023-06-01",
@@ -169,15 +169,15 @@
     },
     {
         "month": "2023-07-01",
-        "totalSales": 2508
+        "totalSales": 929
     },
     {
         "month": "2023-08-01",
-        "totalSales": 1503.6
+        "totalSales": 1215
     },
     {
         "month": "2023-09-01",
-        "totalSales": 69.0
+        "totalSales": 1602.8
     },
     {
         "month": "2023-10-01",
@@ -185,43 +185,43 @@
     },
     {
         "month": "2023-11-01",
-        "totalSales": 26.3
+        "totalSales": 160
     },
     {
         "month": "2023-12-01",
-        "totalSales": 3592.4
+        "totalSales": 2890.8
     },
     {
         "month": "2024-01-01",
-        "totalSales": 503.0
+        "totalSales": 2.2
     },
     {
         "month": "2024-02-01",
-        "totalSales": 1513.6
+        "totalSales": 6626.6
     },
     {
         "month": "2024-03-01",
-        "totalSales": 83.5
+        "totalSales": 6663.0
     },
     {
         "month": "2024-04-01",
-        "totalSales": 3620.7
+        "totalSales": 2300.6
     },
     {
         "month": "2024-05-01",
-        "totalSales": 131.5
+        "totalSales": 1336
     },
     {
         "month": "2024-06-01",
-        "totalSales": 1792.7
+        "totalSales": 3643.3
     },
     {
         "month": "2024-07-01",
-        "totalSales": 7472.4
+        "totalSales": 1193.4
     },
     {
         "month": "2024-08-01",
-        "totalSales": 71.2
+        "totalSales": 3972.5
     },
     {
         "month": "2024-09-01",
@@ -229,6 +229,6 @@
     },
     {
         "month": "2024-10-01",
-        "totalSales": 4104
+        "totalSales": 3220
     }
 ]
