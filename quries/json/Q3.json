@@ -1,262 +1,6 @@
 {
     "Query1": [
         {
-            "Customer": "Alice Johnson",
-            "Balance": 2200,
-            "Total Order Cost": 362,
-            "Order Count": 2,
-            "Orders": [
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27e4",
-                    "OrderCost": 12,
-                    "Products": [
-                        {
-                            "Product": "1984",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b75",
-                            "productType": "Other"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675a3e9074a9a2409ba06877",
-                    "OrderCost": 350,
-                    "Products": [
-                        {
-                            "Product": "Philips Airfryer XXL",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b94",
-                            "productType": "Other"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Customer": "Nathan Drake",
-            "Balance": 2400,
-            "Total Order Cost": 964,
-            "Order Count": 10,
-            "Orders": [
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27f1",
-                    "OrderCost": 14,
-                    "Products": [
-                        {
-                            "Product": "Back in Black",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b82",
-                            "productType": "Other"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675a3e9074a9a2409ba06884",
-                    "OrderCost": 950,
-                    "Products": [
-                        {
-                            "Product": "LG Front Load Washing Machine",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b97",
-                            "productType": "Other"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc0370264d322a9e54c42",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc335c28711098a12c443",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc3affb56469132228960",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc4c15c4529f4e1874973",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Customer": "David Beckham",
-            "Balance": 3000,
-            "Total Order Cost": 20,
-            "Order Count": 2,
-            "Orders": [
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27e2",
-                    "OrderCost": 2,
-                    "Products": [
-                        {
-                            "Product": "Organic Green Tea",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b68",
-                            "productType": "Fresh"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27e3",
-                    "OrderCost": 18,
-                    "Products": [
-                        {
-                            "Product": "Nevermind",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b86",
-                            "productType": "Other"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Customer": "Charlie Brown",
-            "Balance": 2500,
-            "Total Order Cost": 28,
-            "Order Count": 2,
-            "Orders": [
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27e6",
-                    "OrderCost": 11,
-                    "Products": [
-                        {
-                            "Product": "To Kill a Mockingbird",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b77",
-                            "productType": "Other"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675a3e9074a9a2409ba06879",
-                    "OrderCost": 17,
-                    "Products": [
-                        {
-                            "Product": "Born in the U.S.A.",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b84",
-                            "productType": "Other"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Customer": "Ethan Hunt",
-            "Balance": 3000,
-            "Total Order Cost": 22,
-            "Order Count": 2,
-            "Orders": [
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27e8",
-                    "OrderCost": 13,
-                    "Products": [
-                        {
-                            "Product": "Moby-Dick",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b79",
-                            "productType": "Other"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675a3e9074a9a2409ba0687b",
-                    "OrderCost": 9,
-                    "Products": [
-                        {
-                            "Product": "Frankenstein",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b7d",
-                            "productType": "Other"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "Customer": "Diana Prince",
             "Balance": 2700,
             "Total Order Cost": 18,
@@ -282,310 +26,6 @@
                             "Product": "Animal Farm",
                             "Quantity": 1,
                             "productID": "6758c8a6333cf916c9322b7e",
-                            "productType": "Other"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Customer": "Ian Somerhalder",
-            "Balance": 2800,
-            "Total Order Cost": 659,
-            "Order Count": 2,
-            "Orders": [
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27ec",
-                    "OrderCost": 9,
-                    "Products": [
-                        {
-                            "Product": "Frankenstein",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b7d",
-                            "productType": "Other"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675a3e9074a9a2409ba0687f",
-                    "OrderCost": 650,
-                    "Products": [
-                        {
-                            "Product": "Dyson V12 Cordless Vacuum Cleaner",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b93",
-                            "productType": "Other"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Customer": "Jessica Jones",
-            "Balance": 2300,
-            "Total Order Cost": 25,
-            "Order Count": 2,
-            "Orders": [
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27ed",
-                    "OrderCost": 8,
-                    "Products": [
-                        {
-                            "Product": "Animal Farm",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b7e",
-                            "productType": "Other"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675a3e9074a9a2409ba06880",
-                    "OrderCost": 17,
-                    "Products": [
-                        {
-                            "Product": "Born in the U.S.A.",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b84",
-                            "productType": "Other"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Customer": "Olivia Wilde",
-            "Balance": 2700,
-            "Total Order Cost": 30,
-            "Order Count": 14,
-            "Orders": [
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27f2",
-                    "OrderCost": 16,
-                    "Products": [
-                        {
-                            "Product": "Rumours",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b83",
-                            "productType": "Other"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675a3e9074a9a2409ba06885",
-                    "OrderCost": 14,
-                    "Products": [
-                        {
-                            "Product": "Back in Black",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b82",
-                            "productType": "Other"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc0370264d322a9e54c41",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc1563c814a836f406b69",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc1e0d16411ab8eee54c5",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc2b40c79ee910bae1b31",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc335c28711098a12c442",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc3affb5646913222895f",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc4c15c4529f4e1874972",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Customer": "Megan Fox",
-            "Balance": 2600,
-            "Total Order Cost": 36,
-            "Order Count": 2,
-            "Orders": [
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27f0",
-                    "OrderCost": 20,
-                    "Products": [
-                        {
-                            "Product": "Dark Side of the Moon",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b81",
-                            "productType": "Other"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675a3e9074a9a2409ba06883",
-                    "OrderCost": 16,
-                    "Products": [
-                        {
-                            "Product": "Rumours",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b83",
-                            "productType": "Other"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Customer": "Kevin Hart",
-            "Balance": 2900,
-            "Total Order Cost": 965,
-            "Order Count": 2,
-            "Orders": [
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27ee",
-                    "OrderCost": 15,
-                    "Products": [
-                        {
-                            "Product": "Abbey Road",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b7f",
-                            "productType": "Other"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675a3e9074a9a2409ba06881",
-                    "OrderCost": 950,
-                    "Products": [
-                        {
-                            "Product": "LG Front Load Washing Machine",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b97",
                             "productType": "Other"
                         }
                     ]
@@ -625,6 +65,38 @@
             ]
         },
         {
+            "Customer": "Ethan Hunt",
+            "Balance": 3000,
+            "Total Order Cost": 22,
+            "Order Count": 2,
+            "Orders": [
+                {
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27e8",
+                    "OrderCost": 13,
+                    "Products": [
+                        {
+                            "Product": "Moby-Dick",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b79",
+                            "productType": "Other"
+                        }
+                    ]
+                },
+                {
+                    "Order ID": "675a3e9074a9a2409ba0687b",
+                    "OrderCost": 9,
+                    "Products": [
+                        {
+                            "Product": "Frankenstein",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b7d",
+                            "productType": "Other"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "Customer": "John Doe",
             "Balance": 2400,
             "Total Order Cost": 14,
@@ -657,31 +129,31 @@
             ]
         },
         {
-            "Customer": "George Martin",
-            "Balance": 3200,
-            "Total Order Cost": 27,
+            "Customer": "Kevin Hart",
+            "Balance": 2900,
+            "Total Order Cost": 965,
             "Order Count": 2,
             "Orders": [
                 {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27ea",
-                    "OrderCost": 14,
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27ee",
+                    "OrderCost": 15,
                     "Products": [
                         {
-                            "Product": "The Hobbit",
+                            "Product": "Abbey Road",
                             "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b7b",
+                            "productID": "6758c8a6333cf916c9322b7f",
                             "productType": "Other"
                         }
                     ]
                 },
                 {
-                    "Order ID": "675a3e9074a9a2409ba0687d",
-                    "OrderCost": 13,
+                    "Order ID": "675a3e9074a9a2409ba06881",
+                    "OrderCost": 950,
                     "Products": [
                         {
-                            "Product": "Moby-Dick",
+                            "Product": "LG Front Load Washing Machine",
                             "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b79",
+                            "productID": "6758c8a6333cf916c9322b97",
                             "productType": "Other"
                         }
                     ]
@@ -714,102 +186,6 @@
                             "Product": "Oppo Find X5 Pro",
                             "Quantity": 1,
                             "productID": "6758c8a6333cf916c9322b8f",
-                            "productType": "Other"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Customer": "Kim Jane",
-            "Balance": 2500,
-            "Total Order Cost": 12,
-            "Order Count": 2,
-            "Orders": [
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27dc",
-                    "OrderCost": 3,
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b62",
-                            "productType": "Fresh"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27dd",
-                    "OrderCost": 9,
-                    "Products": [
-                        {
-                            "Product": "Pride and Prejudice",
-                            "Quantity": 1,
-                            "productID": "N/A",
-                            "productType": "Other"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Customer": "Taylor Swift",
-            "Balance": 1900,
-            "Total Order Cost": 20,
-            "Order Count": 2,
-            "Orders": [
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27e0",
-                    "OrderCost": 2,
-                    "Products": [
-                        {
-                            "Product": "Cheese Breadsticks",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b64",
-                            "productType": "Fresh"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27e1",
-                    "OrderCost": 18,
-                    "Products": [
-                        {
-                            "Product": "Thriller",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b80",
-                            "productType": "Other"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Customer": "Bob Smith",
-            "Balance": 1800,
-            "Total Order Cost": 959,
-            "Order Count": 2,
-            "Orders": [
-                {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27e5",
-                    "OrderCost": 9,
-                    "Products": [
-                        {
-                            "Product": "Pride and Prejudice",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b76",
-                            "productType": "Other"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675a3e9074a9a2409ba06878",
-                    "OrderCost": 950,
-                    "Products": [
-                        {
-                            "Product": "LG Front Load Washing Machine",
-                            "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b97",
                             "productType": "Other"
                         }
                     ]
@@ -879,29 +255,59 @@
                     ]
                 }
             ]
-        }
-    ],
-    "Query2": [
+        },
         {
-            "Customer": "Nathan Drake",
-            "Balance": 2400,
-            "Total Order Cost": 964,
-            "Order Count": 10,
+            "Customer": "Jessica Jones",
+            "Balance": 2300,
+            "Total Order Cost": 25,
+            "Order Count": 2,
             "Orders": [
                 {
-                    "Order ID": "6759dd6ecbe1fc1a3c2d27f1",
-                    "OrderCost": 14,
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27ed",
+                    "OrderCost": 8,
                     "Products": [
                         {
-                            "Product": "Back in Black",
+                            "Product": "Animal Farm",
                             "Quantity": 1,
-                            "productID": "6758c8a6333cf916c9322b82",
+                            "productID": "6758c8a6333cf916c9322b7e",
                             "productType": "Other"
                         }
                     ]
                 },
                 {
-                    "Order ID": "675a3e9074a9a2409ba06884",
+                    "Order ID": "675a3e9074a9a2409ba06880",
+                    "OrderCost": 17,
+                    "Products": [
+                        {
+                            "Product": "Born in the U.S.A.",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b84",
+                            "productType": "Other"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Customer": "Bob Smith",
+            "Balance": 1800,
+            "Total Order Cost": 959,
+            "Order Count": 2,
+            "Orders": [
+                {
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27e5",
+                    "OrderCost": 9,
+                    "Products": [
+                        {
+                            "Product": "Pride and Prejudice",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b76",
+                            "productType": "Other"
+                        }
+                    ]
+                },
+                {
+                    "Order ID": "675a3e9074a9a2409ba06878",
                     "OrderCost": 950,
                     "Products": [
                         {
@@ -911,100 +317,36 @@
                             "productType": "Other"
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "Customer": "Ian Somerhalder",
+            "Balance": 2800,
+            "Total Order Cost": 659,
+            "Order Count": 2,
+            "Orders": [
                 {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27ec",
+                    "OrderCost": 9,
                     "Products": [
                         {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
+                            "Product": "Frankenstein",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b7d",
+                            "productType": "Other"
                         }
                     ]
                 },
                 {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
+                    "Order ID": "675a3e9074a9a2409ba0687f",
+                    "OrderCost": 650,
                     "Products": [
                         {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc0370264d322a9e54c42",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc335c28711098a12c443",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc3affb56469132228960",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc4c15c4529f4e1874973",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 3,
-                            "productID": "N/A",
-                            "productType": "N/A"
+                            "Product": "Dyson V12 Cordless Vacuum Cleaner",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b93",
+                            "productType": "Other"
                         }
                     ]
                 }
@@ -1014,7 +356,7 @@
             "Customer": "Olivia Wilde",
             "Balance": 2700,
             "Total Order Cost": 30,
-            "Order Count": 14,
+            "Order Count": 2,
             "Orders": [
                 {
                     "Order ID": "6759dd6ecbe1fc1a3c2d27f2",
@@ -1039,155 +381,9 @@
                             "productType": "Other"
                         }
                     ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "N/A",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc0370264d322a9e54c41",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc1563c814a836f406b69",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc1e0d16411ab8eee54c5",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc2b40c79ee910bae1b31",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc335c28711098a12c442",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc3affb5646913222895f",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
-                },
-                {
-                    "Order ID": "675dc4c15c4529f4e1874972",
-                    "OrderCost": "N/A",
-                    "Products": [
-                        {
-                            "Product": "Almond Danish",
-                            "Quantity": 2,
-                            "productID": "N/A",
-                            "productType": "N/A"
-                        }
-                    ]
                 }
             ]
-        }
-    ],
-    "Query3": [
+        },
         {
             "Customer": "David Beckham",
             "Balance": 3000,
@@ -1220,6 +416,233 @@
                 }
             ]
         },
+        {
+            "Customer": "Megan Fox",
+            "Balance": 2600,
+            "Total Order Cost": 36,
+            "Order Count": 2,
+            "Orders": [
+                {
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27f0",
+                    "OrderCost": 20,
+                    "Products": [
+                        {
+                            "Product": "Dark Side of the Moon",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b81",
+                            "productType": "Other"
+                        }
+                    ]
+                },
+                {
+                    "Order ID": "675a3e9074a9a2409ba06883",
+                    "OrderCost": 16,
+                    "Products": [
+                        {
+                            "Product": "Rumours",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b83",
+                            "productType": "Other"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Customer": "Nathan Drake",
+            "Balance": 2400,
+            "Total Order Cost": 964,
+            "Order Count": 2,
+            "Orders": [
+                {
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27f1",
+                    "OrderCost": 14,
+                    "Products": [
+                        {
+                            "Product": "Back in Black",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b82",
+                            "productType": "Other"
+                        }
+                    ]
+                },
+                {
+                    "Order ID": "675a3e9074a9a2409ba06884",
+                    "OrderCost": 950,
+                    "Products": [
+                        {
+                            "Product": "LG Front Load Washing Machine",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b97",
+                            "productType": "Other"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Customer": "Kim Jane",
+            "Balance": 2500,
+            "Total Order Cost": 12,
+            "Order Count": 2,
+            "Orders": [
+                {
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27dc",
+                    "OrderCost": 3,
+                    "Products": [
+                        {
+                            "Product": "Almond Danish",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b62",
+                            "productType": "Fresh"
+                        }
+                    ]
+                },
+                {
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27dd",
+                    "OrderCost": 9,
+                    "Products": [
+                        {
+                            "Product": "Pride and Prejudice",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b76",
+                            "productType": "Other"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Customer": "Taylor Swift",
+            "Balance": 1900,
+            "Total Order Cost": 20,
+            "Order Count": 2,
+            "Orders": [
+                {
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27e0",
+                    "OrderCost": 2,
+                    "Products": [
+                        {
+                            "Product": "Cheese Breadsticks",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b64",
+                            "productType": "Fresh"
+                        }
+                    ]
+                },
+                {
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27e1",
+                    "OrderCost": 18,
+                    "Products": [
+                        {
+                            "Product": "Thriller",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b80",
+                            "productType": "Other"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Customer": "Alice Johnson",
+            "Balance": 2200,
+            "Total Order Cost": 362,
+            "Order Count": 2,
+            "Orders": [
+                {
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27e4",
+                    "OrderCost": 12,
+                    "Products": [
+                        {
+                            "Product": "1984",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b75",
+                            "productType": "Other"
+                        }
+                    ]
+                },
+                {
+                    "Order ID": "675a3e9074a9a2409ba06877",
+                    "OrderCost": 350,
+                    "Products": [
+                        {
+                            "Product": "Philips Airfryer XXL",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b94",
+                            "productType": "Other"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Customer": "Charlie Brown",
+            "Balance": 2500,
+            "Total Order Cost": 28,
+            "Order Count": 2,
+            "Orders": [
+                {
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27e6",
+                    "OrderCost": 11,
+                    "Products": [
+                        {
+                            "Product": "To Kill a Mockingbird",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b77",
+                            "productType": "Other"
+                        }
+                    ]
+                },
+                {
+                    "Order ID": "675a3e9074a9a2409ba06879",
+                    "OrderCost": 17,
+                    "Products": [
+                        {
+                            "Product": "Born in the U.S.A.",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b84",
+                            "productType": "Other"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Customer": "George Martin",
+            "Balance": 3200,
+            "Total Order Cost": 27,
+            "Order Count": 2,
+            "Orders": [
+                {
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27ea",
+                    "OrderCost": 14,
+                    "Products": [
+                        {
+                            "Product": "The Hobbit",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b7b",
+                            "productType": "Other"
+                        }
+                    ]
+                },
+                {
+                    "Order ID": "675a3e9074a9a2409ba0687d",
+                    "OrderCost": 13,
+                    "Products": [
+                        {
+                            "Product": "Moby-Dick",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b79",
+                            "productType": "Other"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Query2": [],
+    "Query3": [
         {
             "Customer": "Kendrick Lamar",
             "Balance": 2000,
@@ -1285,6 +708,38 @@
             ]
         },
         {
+            "Customer": "David Beckham",
+            "Balance": 3000,
+            "Total Order Cost": 20,
+            "Order Count": 2,
+            "Orders": [
+                {
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27e2",
+                    "OrderCost": 2,
+                    "Products": [
+                        {
+                            "Product": "Organic Green Tea",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b68",
+                            "productType": "Fresh"
+                        }
+                    ]
+                },
+                {
+                    "Order ID": "6759dd6ecbe1fc1a3c2d27e3",
+                    "OrderCost": 18,
+                    "Products": [
+                        {
+                            "Product": "Nevermind",
+                            "Quantity": 1,
+                            "productID": "6758c8a6333cf916c9322b86",
+                            "productType": "Other"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "Customer": "Kim Jane",
             "Balance": 2500,
             "Total Order Cost": 12,
@@ -1309,7 +764,7 @@
                         {
                             "Product": "Pride and Prejudice",
                             "Quantity": 1,
-                            "productID": "N/A",
+                            "productID": "6758c8a6333cf916c9322b76",
                             "productType": "Other"
                         }
                     ]
