@@ -17,6 +17,19 @@ This is the repo for DATA70141, group assignment Amazone
 
 - Sales:
     ![](https://github.com/gggaiii/Amazone-Group-Assignment/blob/main/quries/outputs/sales.png)
+  Monthly sales with year-on-year growth rate
+    ![](https://github.com/gggaiii/Amazone-Group-Assignment/blob/main/quries/outputs/monthly_sales.png)
+  Quarterly sales with year-on-year growth rate
+    ![](https://github.com/gggaiii/Amazone-Group-Assignment/blob/main/quries/outputs/quarterly_sales.png)
+  Yearly sales with year-on-year growth rate
+    ![](https://github.com/gggaiii/Amazone-Group-Assignment/blob/main/quries/outputs/yearly_sales.png)
+  
+
+- Product:
+  product inventory
+    ![](https://github.com/gggaiii/Amazone-Group-Assignment/blob/main/quries/outputs/inventory.png)
+  Sales quantity and store quantity
+    ![](https://github.com/gggaiii/Amazone-Group-Assignment/blob/main/quries/outputs/combined_sales_inventory.png)
 
 ## Notice
 For new developed functions  
