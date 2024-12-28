@@ -31,7 +31,7 @@ def sucess_current_order(database, condition=None):
                 "orderCount": {"$sum": 1}  # calculate order count
             }
         }, {
-            "$match": {  # 篩選 totalCostSum 小於 balance 的項目
+            "$match": {  #Filter items where totalCostSum is less than balance
                 "$expr": {"$lt": ["$totalCostSum", "$balance"]}
             }
         }, {
