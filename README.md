@@ -13,7 +13,10 @@ This is the repo for DATA70141, group assignment Amazone
 5) [p4_2.py](https://github.com/gggaiii/Amazone-Group-Assignment/blob/main/quries/q4.2.py)
 6) [sales.py](https://github.com/gggaiii/Amazone-Group-Assignment/blob/main/quries/q5e_TotalSales_month_quarter_day_year.py)
 
-## 3. xxx
+## 3. Output
+
+- Sales:
+    ![](https://github.com/gggaiii/Amazone-Group-Assignment/blob/main/quries/outputs/sales.png)
 
 ## Notice
 For new developed functions  
