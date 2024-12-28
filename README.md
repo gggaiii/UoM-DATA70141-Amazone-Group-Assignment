@@ -26,9 +26,14 @@ This is the repo for DATA70141, group assignment Amazone
   
 
 - Product:
+
   product inventory
     ![](https://github.com/gggaiii/Amazone-Group-Assignment/blob/main/quries/outputs/inventory.png)
-  Sales quantity and store quantity
+
+  
+  Sales quantity and store quantity:
+  Adjust the product inventory structure based on sales.
+  
     ![](https://github.com/gggaiii/Amazone-Group-Assignment/blob/main/quries/outputs/combined_sales_inventory.png)
 
 ## Notice
