@@ -1,0 +1,1 @@
+These scripts were used to generate a part of our data for the initial stage of the database based on the given requirements. Since running this could affect the current state of the collections and documents (data loss, ...), please consider using them carefully. 
