@@ -5,7 +5,7 @@ from bson import ObjectId
 
 #connect to mongodb:
 def connect_to_mongo():
-    con = "mongodb+srv://admin:admin@amazone.dodun.mongodb.net/"
+    con = "  "
     client = MongoClient(con, serverSelectionTimeoutMS=5000)
     try:
         print("Connected to the Server")

@@ -8,7 +8,7 @@ from datetime import datetime
 
 
 # Connect to the server:
-con ="mongodb+srv://admin:admin@amazone.dodun.mongodb.net/"
+con ="  "
 client = MongoClient(con, serverSelectionTimeoutMS=5000)
 try:
     print("Connected to the Server")
